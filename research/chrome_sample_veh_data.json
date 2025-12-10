@@ -1,0 +1,1464 @@
+{
+	"vehicleDescription": {
+		"responseStatus": {
+			"matchedEquipment": [],
+			"matchedNonFactoryEquipment": [],
+			"status": [],
+			"responseCode": "Successful",
+			"description": "Successful"
+		},
+		"vinDescription": {
+			"gvwr": { "low": 6001.0, "high": 7000.0 },
+			"worldManufacturerIdentifier": "United States Ford ",
+			"manufacturerIdentificationCode": null,
+			"restraintTypes": [
+				{
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Frontal", "id": 38 },
+					"category": { "value": "Driver Air Bag", "id": 1001 },
+					"type": null
+				},
+				{
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Frontal", "id": 38 },
+					"category": { "value": "Passenger Air Bag", "id": 1002 },
+					"type": null
+				},
+				{
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Front Side Air Bag", "id": 1005 },
+					"type": null
+				},
+				{
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Front Head Air Bag", "id": 1007 },
+					"type": null
+				},
+				{
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Rear Head Air Bag", "id": 1008 },
+					"type": null
+				}
+			],
+			"marketClass": [{ "value": "4WD Standard Pickup Trucks", "id": 4 }],
+			"vin": "1FTEW1EP6LFC83313",
+			"modelYear": 2020,
+			"division": "Ford",
+			"modelName": "F-150",
+			"styleName": "4WD SuperCrew 5.5' Box",
+			"bodyType": "Crew Pickup",
+			"drivingWheels": "4x4",
+			"builddata": "no",
+			"built": null,
+			"builtMSRP": null
+		},
+		"style": [
+			{
+				"division": { "value": "Ford", "id": 13 },
+				"subdivision": { "value": "Ford Pickups", "id": 9365 },
+				"model": { "value": "F-150", "id": 32784 },
+				"basePrice": {
+					"unknown": false,
+					"invoice": 40399.0,
+					"msrp": 44869.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{ "value": "Short Bed", "id": 9, "primary": false },
+					{ "value": "Crew Cab Pickup", "id": 5, "primary": true }
+				],
+				"marketClass": { "value": "4WD Standard Pickup Trucks", "id": 4 },
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [{ "value": "CAD00FOT11AA0", "logic": null }],
+				"id": 409384,
+				"modelYear": 2020,
+				"name": "XL 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": { "value": "Ford", "id": 13 },
+				"subdivision": { "value": "Ford Pickups", "id": 9365 },
+				"model": { "value": "F-150", "id": 32784 },
+				"basePrice": {
+					"unknown": false,
+					"invoice": 42027.0,
+					"msrp": 46719.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{ "value": "Short Bed", "id": 9, "primary": false },
+					{ "value": "Crew Cab Pickup", "id": 5, "primary": true }
+				],
+				"marketClass": { "value": "4WD Standard Pickup Trucks", "id": 4 },
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [{ "value": "CAD00FOT11AB0", "logic": null }],
+				"id": 409385,
+				"modelYear": 2020,
+				"name": "XLT 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": { "value": "Ford", "id": 13 },
+				"subdivision": { "value": "Ford Pickups", "id": 9365 },
+				"model": { "value": "F-150", "id": 32784 },
+				"basePrice": {
+					"unknown": false,
+					"invoice": 53318.0,
+					"msrp": 59549.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{ "value": "Short Bed", "id": 9, "primary": false },
+					{ "value": "Crew Cab Pickup", "id": 5, "primary": true }
+				],
+				"marketClass": { "value": "4WD Standard Pickup Trucks", "id": 4 },
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [{ "value": "CAD00FOT11AC0", "logic": null }],
+				"id": 409386,
+				"modelYear": 2020,
+				"name": "LARIAT 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			}
+		],
+		"engine": [
+			{
+				"engineType": { "value": "V6 Cylinder Engine", "id": 1051 },
+				"fuelType": { "value": "Gasoline Fuel", "id": 1059 },
+				"horsepower": { "value": 325.0, "rpm": 5000 },
+				"netTorque": { "value": 400.0, "rpm": 2750 },
+				"cylinders": 6,
+				"displacement": { "value": [{ "value": "2.7", "unit": "liters" }] },
+				"fuelEconomy": {
+					"city": { "low": 13.1, "high": 13.1 },
+					"hwy": { "low": 10.2, "high": 10.2 },
+					"unit": "L/100 km"
+				},
+				"fuelCapacity": { "low": 98.0, "high": 136.3, "unit": "L" },
+				"forcedInduction": { "value": "Turbocharged", "id": 1054 },
+				"installed": { "cause": "VIN", "detail": null },
+				"highOutput": false
+			}
+		],
+		"standard": [
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Electronic Transfer Case",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Block Heater",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "70-Amp/Hr 610CCA Maintenance-Free Battery w/Run Down Protection",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "200 Amp Alternator",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Towing Equipment -inc: Trailer Sway Control",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "HD Gas-Pressurized Shock Absorbers",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Electric Power-Assist Speed-Sensing Steering",
+				"category": [{ "id": 1084, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Single Stainless Steel Exhaust",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "136.3 L Fuel Tank",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Auto Locking Hubs",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Double Wishbone Front Suspension w/Coil Springs",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "Solid Axle Rear Suspension w/Leaf Springs",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "MECHANICAL", "id": 1236 },
+				"description": "4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist, Hill Hold Control and Electric Parking Brake",
+				"category": [
+					{ "id": 1018, "removed": null },
+					{ "id": 1020, "removed": null },
+					{ "id": 1228, "removed": null }
+				],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Regular Box Style",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Steel Spare Wheel",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Black Side Windows Trim",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Aluminum Panels",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Tailgate Rear Cargo Access",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Cargo Lamp w/High Mount Stop Light",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Headlights-Automatic Highbeams",
+				"category": [{ "id": 1363, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Auto On/Off Reflector Halogen Auto High-Beam Headlamps w/Delay-Off",
+				"category": [{ "id": 1169, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "EXTERIOR", "id": 1176 },
+				"description": "Perimeter/Approach Lights",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "ENTERTAINMENT", "id": 10689 },
+				"description": "Fixed Antenna",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "ENTERTAINMENT", "id": 10689 },
+				"description": "2 LCD Monitors In The Front",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "60-40 Folding Split-Bench Front Facing Fold-Up Cushion Rear Seat",
+				"category": [
+					{ "id": 1076, "removed": null },
+					{ "id": 1304, "removed": null }
+				],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Front Cupholder",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Rear Cupholder",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Front Cigar Lighter(s)",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Compass",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Glove Box",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Full Cloth Headliner",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "3 12V DC Power Outlets",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Fade-To-Off Interior Lighting",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Cab Mounted Cargo Lights",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Delayed Accessory Power",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Outside Temp Gauge",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Securilock Anti-Theft Ignition (pats) Immobilizer",
+				"category": [{ "id": 1166, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Perimeter Alarm",
+				"category": [{ "id": 1013, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "INTERIOR", "id": 1220 },
+				"description": "Air Filtration",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Side Impact Beams",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Dual Stage Driver And Passenger Seat-Mounted Side Airbags",
+				"category": [{ "id": 1005, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Ford Co-Pilot360 - Pre-Collision Assist with Automatic Emergency Braking (AEB)",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Tire Specific Low Tire Pressure Warning",
+				"category": [{ "id": 1202, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Dual Stage Driver And Passenger Front Airbags",
+				"category": [
+					{ "id": 1001, "removed": null },
+					{ "id": 1002, "removed": null }
+				],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Airbag Occupancy Sensor",
+				"category": [{ "id": 1310, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Mykey System -inc: Top Speed Limiter, Audio Volume Limiter, Early Low Fuel Warning, Programmable Sound Chimes and Beltminder w/Audio Mute",
+				"category": [{ "id": 1350, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Safety Canopy System Curtain 1st And 2nd Row Airbags",
+				"category": [
+					{ "id": 1007, "removed": null },
+					{ "id": 1008, "removed": null }
+				],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Outboard Front Lap And Shoulder Safety Belts -inc: Rear Centre 3 Point, Height Adjusters and Pretensioners",
+				"category": [],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"header": { "value": "SAFETY", "id": 1343 },
+				"description": "Rear Child Safety Locks",
+				"category": [{ "id": 1039, "removed": null }],
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			}
+		],
+		"factoryOption": [
+			{
+				"header": { "value": "ENGINE", "id": 1160 },
+				"description": ["ENGINE: 2.7L V6 ECOBOOST"],
+				"oemDescription": [],
+				"category": [
+					{ "id": 1051, "removed": null },
+					{ "id": 1054, "removed": null },
+					{ "id": 1059, "removed": null }
+				],
+				"price": {
+					"unknown": false,
+					"invoiceMin": 0.0,
+					"invoiceMax": 630.0,
+					"msrpMin": 0.0,
+					"msrpMax": 700.0
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "Engine", "detail": null },
+				"ambiguousOption": [
+					{
+						"header": { "value": "ENGINE", "id": 1160 },
+						"description": ["ENGINE: 2.7L V6 ECOBOOST"],
+						"oemDescription": [],
+						"category": [
+							{ "id": 1051, "removed": null },
+							{ "id": 1054, "removed": null },
+							{ "id": 1059, "removed": null }
+						],
+						"price": {
+							"unknown": false,
+							"invoiceMin": 0.0,
+							"invoiceMax": 630.0,
+							"msrpMin": 0.0,
+							"msrpMax": 700.0
+						},
+						"styleId": [409386],
+						"installed": null,
+						"ambiguousOption": [],
+						"chromeCode": "99P-F",
+						"oemCode": "99P",
+						"altOptionCode": null,
+						"standard": true,
+						"optionKindId": 6,
+						"utf": "B",
+						"fleetOnly": true
+					},
+					{
+						"header": { "value": "ENGINE", "id": 1160 },
+						"description": ["ENGINE: 2.7L V6 ECOBOOST"],
+						"oemDescription": [],
+						"category": [
+							{ "id": 1051, "removed": null },
+							{ "id": 1054, "removed": null },
+							{ "id": 1059, "removed": null }
+						],
+						"price": {
+							"unknown": false,
+							"invoiceMin": 0.0,
+							"invoiceMax": 630.0,
+							"msrpMin": 0.0,
+							"msrpMax": 700.0
+						},
+						"styleId": [409384, 409385],
+						"installed": null,
+						"ambiguousOption": [],
+						"chromeCode": "99P-R",
+						"oemCode": "99P",
+						"altOptionCode": null,
+						"standard": false,
+						"optionKindId": 6,
+						"utf": "B",
+						"fleetOnly": false
+					},
+					{
+						"header": { "value": "ENGINE", "id": 1160 },
+						"description": ["ENGINE: 2.7L V6 ECOBOOST"],
+						"oemDescription": [],
+						"category": [
+							{ "id": 1051, "removed": null },
+							{ "id": 1054, "removed": null },
+							{ "id": 1059, "removed": null }
+						],
+						"price": {
+							"unknown": false,
+							"invoiceMin": 0.0,
+							"invoiceMax": 630.0,
+							"msrpMin": 0.0,
+							"msrpMax": 700.0
+						},
+						"styleId": [409384, 409385],
+						"installed": null,
+						"ambiguousOption": [],
+						"chromeCode": "99P-F",
+						"oemCode": "99P",
+						"altOptionCode": null,
+						"standard": false,
+						"optionKindId": 6,
+						"utf": "B",
+						"fleetOnly": true
+					},
+					{
+						"header": { "value": "ENGINE", "id": 1160 },
+						"description": ["ENGINE: 2.7L V6 ECOBOOST"],
+						"oemDescription": [],
+						"category": [
+							{ "id": 1051, "removed": null },
+							{ "id": 1054, "removed": null },
+							{ "id": 1059, "removed": null }
+						],
+						"price": {
+							"unknown": false,
+							"invoiceMin": 0.0,
+							"invoiceMax": 630.0,
+							"msrpMin": 0.0,
+							"msrpMax": 700.0
+						},
+						"styleId": [409386],
+						"installed": null,
+						"ambiguousOption": [],
+						"chromeCode": "99P-R",
+						"oemCode": "99P",
+						"altOptionCode": null,
+						"standard": true,
+						"optionKindId": 6,
+						"utf": "B",
+						"fleetOnly": false
+					}
+				],
+				"chromeCode": null,
+				"oemCode": "99P",
+				"altOptionCode": null,
+				"standard": false,
+				"optionKindId": 6,
+				"utf": "B",
+				"fleetOnly": null
+			}
+		],
+		"genericEquipment": [
+			{
+				"categoryId": 1001,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Frontal", "id": 38 },
+					"category": { "value": "Driver Air Bag", "id": 1001 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "VIN", "detail": null }
+			},
+			{
+				"categoryId": 1002,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Frontal", "id": 38 },
+					"category": { "value": "Passenger Air Bag", "id": 1002 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "VIN", "detail": null }
+			},
+			{
+				"categoryId": 1005,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Front Side Air Bag", "id": 1005 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "VIN", "detail": null }
+			},
+			{
+				"categoryId": 1007,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Front Head Air Bag", "id": 1007 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "VIN", "detail": null }
+			},
+			{
+				"categoryId": 1008,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Side", "id": 39 },
+					"category": { "value": "Rear Head Air Bag", "id": 1008 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "VIN", "detail": null }
+			},
+			{
+				"categoryId": 1011,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Air Conditioning", "id": 21 },
+					"category": { "value": "A/C", "id": 1011 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1013,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": { "value": "Security System", "id": 1013 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1014,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Audio", "id": 22 },
+					"category": { "value": "AM/FM Stereo", "id": 1014 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1018,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Brakes", "id": 4 },
+					"category": { "value": "ABS", "id": 1018 },
+					"type": { "value": "ABS-Brakes", "id": 1 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1020,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Brakes", "id": 4 },
+					"category": { "value": "4-Wheel Disc Brakes", "id": 1020 },
+					"type": { "value": "Brakes", "id": 2 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1039,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Child Safety Locks", "id": 1039 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1040,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Drivetrain", "id": 37 },
+					"category": { "value": "Four Wheel Drive", "id": 1040 },
+					"type": { "value": "Drivetrain", "id": 3 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1051,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Engine", "id": 13 },
+					"category": { "value": "V6 Cylinder Engine", "id": 1051 },
+					"type": { "value": "Engine", "id": 4 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "Engine", "detail": null }
+			},
+			{
+				"categoryId": 1054,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Engine", "id": 13 },
+					"category": { "value": "Turbocharged", "id": 1054 },
+					"type": { "value": "Engine-Forced Induction", "id": 5 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "Engine", "detail": null }
+			},
+			{
+				"categoryId": 1059,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Fuel", "id": 46 },
+					"category": { "value": "Gasoline Fuel", "id": 1059 },
+					"type": { "value": "Fuel system", "id": 6 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "Engine", "detail": null }
+			},
+			{
+				"categoryId": 1062,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Locks", "id": 26 },
+					"category": { "value": "Keyless Entry", "id": 1062 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1063,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Locks", "id": 26 },
+					"category": { "value": "Power Door Locks", "id": 1063 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1065,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Mirrors", "id": 27 },
+					"category": { "value": "Power Mirror(s)", "id": 1065 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1076,
+				"definition": {
+					"group": { "value": "Seating", "id": 10 },
+					"header": { "value": "Seats", "id": 44 },
+					"category": { "value": "Pass-Through Rear Seat", "id": 1076 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1084,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Steering", "id": 6 },
+					"category": { "value": "Power Steering", "id": 1084 },
+					"type": { "value": "Steering", "id": 10 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1087,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": { "value": "Adjustable Steering Wheel", "id": 1087 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1099,
+				"definition": {
+					"group": { "value": "Exterior", "id": 2 },
+					"header": { "value": "Tire - Spare", "id": 36 },
+					"category": { "value": "Conventional Spare Tire", "id": 1099 },
+					"type": { "value": "Tire-Spare", "id": 14 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1100,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Traction Control", "id": 1100 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1126,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Window", "id": 29 },
+					"category": { "value": "Power Windows", "id": 1126 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1127,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": { "value": "Intermittent Wipers", "id": 1127 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1130,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Transmission", "id": 15 },
+					"category": { "value": "A/T", "id": 1130 },
+					"type": { "value": "Transmission - Type", "id": 16 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1159,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": {
+						"value": "Variable Speed Intermittent Wipers",
+						"id": 1159
+					},
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1166,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": { "value": "Immobilizer", "id": 1166 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1169,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Automatic Headlights", "id": 1169 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1176,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Mirrors", "id": 27 },
+					"category": { "value": "Passenger Vanity Mirror", "id": 1176 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1195,
+				"definition": {
+					"group": { "value": "Powertrain", "id": 6 },
+					"header": { "value": "Transmission", "id": 15 },
+					"category": { "value": "Transmission w/Dual Shift Mode", "id": 1195 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1200,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Tow Hooks", "id": 1200 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1202,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Tires", "id": 7 },
+					"category": { "value": "Tire Pressure Monitor", "id": 1202 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1224,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Convenience", "id": 23 },
+					"category": { "value": "Back-Up Camera", "id": 1224 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1227,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Stability Control", "id": 1227 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1228,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Brake Assist", "id": 1228 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1230,
+				"definition": {
+					"group": { "value": "Accessories", "id": 8 },
+					"header": { "value": "Audio", "id": 22 },
+					"category": { "value": "Auxiliary Audio Input", "id": 1230 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1304,
+				"definition": {
+					"group": { "value": "Seating", "id": 10 },
+					"header": { "value": "Seats", "id": 44 },
+					"category": { "value": "Rear Bench Seat", "id": 1304 },
+					"type": { "value": "Seats - Rear", "id": 81 }
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1310,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Air Bag - Frontal", "id": 38 },
+					"category": { "value": "Passenger Air Bag Sensor", "id": 1310 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1350,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Driver Restriction Features", "id": 1350 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1353,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Front Collision Mitigation", "id": 1353 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			},
+			{
+				"categoryId": 1363,
+				"definition": {
+					"group": { "value": "Safety", "id": 9 },
+					"header": { "value": "Safety Features", "id": 42 },
+					"category": { "value": "Automatic Highbeams", "id": 1363 },
+					"type": null
+				},
+				"styleId": [409384, 409385, 409386],
+				"installed": { "cause": "BaseEquipment", "detail": null }
+			}
+		],
+		"consumerInformation": [],
+		"technicalSpecification": [
+			{
+				"titleId": 10,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Weight Information", "id": 9 },
+					"title": { "value": "Base Curb Weight", "id": 10 },
+					"measurementUnit": "lbs"
+				},
+				"range": { "min": 4770.0, "max": 5286.0 },
+				"value": [
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53A-R,53A-F)&(622-R,622-F))))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "(101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4859",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(101A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4902",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "((X19-F,X19-R),(582,((53C-R,53C-F),((53A-R,53A-F),(153-0,101A)))))&((X19-F,X19-R),(582,((53C-R,53C-F),((53A-R,53A-F),153-0))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4772",
+						"condition": "(52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4773",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{ "styleId": [409384], "value": "4776", "condition": "168-1,168-2" },
+					{ "styleId": [409384], "value": "4778", "condition": "55B,96L" },
+					{
+						"styleId": [409384, 409385],
+						"value": "4781",
+						"condition": "53A-R,53A-F"
+					},
+					{ "styleId": [409384], "value": "4784", "condition": "T2P-R,T2P-F" },
+					{ "styleId": [409384], "value": "4787", "condition": "54Y-1,54Y-2" },
+					{
+						"styleId": [409384, 409385],
+						"value": "4796",
+						"condition": "53C-R,53C-F"
+					},
+					{ "styleId": [409384, 409385], "value": "4798", "condition": "413" },
+					{
+						"styleId": [409384, 409385],
+						"value": "4800",
+						"condition": "64A-R,64A-F"
+					},
+					{ "styleId": [409384], "value": "4810", "condition": "18B,63T" },
+					{
+						"styleId": [409384, 409385],
+						"value": "4815",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4826",
+						"condition": "T7C-F,T7C-R"
+					},
+					{ "styleId": [409384, 409385], "value": "4833", "condition": "63S" },
+					{ "styleId": [409384, 409385], "value": "4770", "condition": "" },
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),(((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),((301A&((61X-R,61X-F)&(862-F,862-R))),((301A&((862-F,862-R)&(91V-R,91V-F))),((302A&((61X-R,61X-F)&(862-F,862-R))),(302A&((862-F,862-R)&(91V-R,91V-F)))))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "(61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4859",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),((301A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(302A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4902",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),((301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(302A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4771",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,((X19-F,X19-R),(X27-F,X27-R)))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4772",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4773",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{ "styleId": [409385], "value": "4774", "condition": "17A,302A" },
+					{ "styleId": [409385], "value": "4776", "condition": "435-F,435-R" },
+					{ "styleId": [409385], "value": "4777", "condition": "301A,302A" },
+					{
+						"styleId": [409385],
+						"value": "4778",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4779",
+						"condition": "(300A-R,300A-F),(301A,302A)"
+					},
+					{ "styleId": [409385], "value": "4783", "condition": "302A" },
+					{
+						"styleId": [409385],
+						"value": "4784",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{ "styleId": [409385], "value": "4787", "condition": "54Y-B" },
+					{ "styleId": [409385], "value": "4789", "condition": "63E" },
+					{ "styleId": [409385], "value": "4793", "condition": "T8C-F,T8C-R" },
+					{ "styleId": [409385], "value": "4799", "condition": "18C" },
+					{ "styleId": [409385], "value": "4803", "condition": "64S-R,64S-F" },
+					{ "styleId": [409385], "value": "4804", "condition": "64L-R,64L-F" },
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "18B,((61V-R,61V-F),((61X-R,61X-F),(63T,(862-F,862-R))))"
+					},
+					{ "styleId": [409385], "value": "4813", "condition": "T84-F,T84-R" },
+					{ "styleId": [409385], "value": "4834", "condition": "43V" },
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "502A&(61W&(863&(99P-F,99P-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4902",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4860",
+						"condition": "153-0,(502A,((64R-R,64R-F),(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4861",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))"
+					},
+					{ "styleId": [409386], "value": "4862", "condition": "50C" },
+					{ "styleId": [409386], "value": "4863", "condition": "17A" },
+					{
+						"styleId": [409386],
+						"value": "4867",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409386],
+						"value": "4873",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409386],
+						"value": "4878",
+						"condition": "501A,502A,63E"
+					},
+					{ "styleId": [409386], "value": "4880", "condition": "54W" },
+					{ "styleId": [409386], "value": "4882", "condition": "T8C-F,T8C-R" },
+					{ "styleId": [409386], "value": "4885", "condition": "53C-R,53C-F" },
+					{ "styleId": [409386], "value": "4887", "condition": "413" },
+					{ "styleId": [409386], "value": "4888", "condition": "188-0" },
+					{ "styleId": [409386], "value": "4889", "condition": "64A-R,64A-F" },
+					{ "styleId": [409386], "value": "4892", "condition": "64S-R,64S-F" },
+					{ "styleId": [409386], "value": "4893", "condition": "64L-R,64L-F" },
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "61L,61W,63T,863"
+					},
+					{ "styleId": [409386], "value": "4904", "condition": "96P,96W" },
+					{ "styleId": [409386], "value": "4916", "condition": "18P" },
+					{ "styleId": [409386], "value": "4922", "condition": "63S" },
+					{ "styleId": [409386], "value": "4923", "condition": "43V" },
+					{ "styleId": [409386], "value": "4859", "condition": "" }
+				]
+			},
+			{
+				"titleId": 14,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Weight Information", "id": 9 },
+					"title": { "value": "Curb Weight - Front", "id": 14 },
+					"measurementUnit": "lbs"
+				},
+				"range": { "min": 2826.0, "max": 2905.0 },
+				"value": [
+					{ "styleId": [409384, 409385], "value": "2826", "condition": "" },
+					{ "styleId": [409386], "value": "2905", "condition": "" }
+				]
+			},
+			{
+				"titleId": 15,
+				"definition": {
+					"group": { "value": "Chassis", "id": 4 },
+					"header": { "value": "Weight Information", "id": 9 },
+					"title": { "value": "Curb Weight - Rear", "id": 15 },
+					"measurementUnit": "lbs"
+				},
+				"range": { "min": 1944.0, "max": 1954.0 },
+				"value": [
+					{ "styleId": [409384, 409385], "value": "1944", "condition": "" },
+					{ "styleId": [409386], "value": "1954", "condition": "" }
+				]
+			},
+			{
+				"titleId": 304,
+				"definition": {
+					"group": { "value": "Dimensions", "id": 5 },
+					"header": { "value": "Exterior Dimensions", "id": 2 },
+					"title": { "value": "Length, Overall", "id": 304 },
+					"measurementUnit": "in"
+				},
+				"range": { "min": 231.9, "max": 231.9 },
+				"value": [
+					{
+						"styleId": [409384, 409385, 409386],
+						"value": "231.9",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 305,
+				"definition": {
+					"group": { "value": "Dimensions", "id": 5 },
+					"header": { "value": "Exterior Dimensions", "id": 2 },
+					"title": { "value": "Width, Max w/o mirrors", "id": 305 },
+					"measurementUnit": "in"
+				},
+				"range": { "min": 79.9, "max": 79.9 },
+				"value": [
+					{
+						"styleId": [409384, 409385, 409386],
+						"value": "79.9",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 306,
+				"definition": {
+					"group": { "value": "Dimensions", "id": 5 },
+					"header": { "value": "Exterior Dimensions", "id": 2 },
+					"title": { "value": "Height, Overall", "id": 306 },
+					"measurementUnit": "in"
+				},
+				"range": { "min": 77.2, "max": 77.2 },
+				"value": [
+					{
+						"styleId": [409384, 409385, 409386],
+						"value": "77.2",
+						"condition": ""
+					}
+				]
+			}
+		],
+		"exteriorColor": [],
+		"interiorColor": [],
+		"genericColor": [],
+		"basePrice": {
+			"invoice": { "low": 40399.0, "high": 53318.0 },
+			"msrp": { "low": 44869.0, "high": 59549.0 },
+			"destination": { "low": 1950.0, "high": 1950.0 },
+			"unknown": false
+		},
+		"country": "CA",
+		"language": "en",
+		"modelYear": 2020,
+		"bestMakeName": "Ford",
+		"bestModelName": "F-150",
+		"bestStyleName": "4WD SuperCrew 5.5' Box",
+		"bestTrimName": "XL/XLT/LARIAT"
+	}
+}

@@ -1,0 +1,7783 @@
+{
+	"vehicleDescription": {
+		"responseStatus": {
+			"matchedEquipment": [],
+			"matchedNonFactoryEquipment": [],
+			"status": [],
+			"responseCode": "Successful",
+			"description": "Successful"
+		},
+		"vinDescription": null,
+		"style": [
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 30990.0,
+					"msrp": 32339.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT111A0",
+						"logic": null
+					}
+				],
+				"id": 409361,
+				"modelYear": 2020,
+				"name": "XL 2WD Reg Cab 6.5' Box",
+				"nameWoTrim": "2WD Reg Cab 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "F1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 33271.0,
+					"msrp": 36769.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT111B0",
+						"logic": null
+					}
+				],
+				"id": 409362,
+				"modelYear": 2020,
+				"name": "XLT 2WD Reg Cab 6.5' Box",
+				"nameWoTrim": "2WD Reg Cab 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "F1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 35175.0,
+					"msrp": 36839.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT112A0",
+						"logic": null
+					}
+				],
+				"id": 409363,
+				"modelYear": 2020,
+				"name": "XL 4WD Reg Cab 6.5' Box",
+				"nameWoTrim": "4WD Reg Cab 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "F1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 37231.0,
+					"msrp": 41269.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT112B0",
+						"logic": null
+					}
+				],
+				"id": 409364,
+				"modelYear": 2020,
+				"name": "XLT 4WD Reg Cab 6.5' Box",
+				"nameWoTrim": "4WD Reg Cab 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "F1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 31269.0,
+					"msrp": 32639.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT113A0",
+						"logic": null
+					}
+				],
+				"id": 409365,
+				"modelYear": 2020,
+				"name": "XL 2WD Reg Cab 8' Box",
+				"nameWoTrim": "2WD Reg Cab 8' Box",
+				"trim": "XL",
+				"mfrModelCode": "F1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Long Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 33535.0,
+					"msrp": 37069.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT113B0",
+						"logic": null
+					}
+				],
+				"id": 409366,
+				"modelYear": 2020,
+				"name": "XLT 2WD Reg Cab 8' Box",
+				"nameWoTrim": "2WD Reg Cab 8' Box",
+				"trim": "XLT",
+				"mfrModelCode": "F1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Long Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 35454.0,
+					"msrp": 37139.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT114A0",
+						"logic": null
+					}
+				],
+				"id": 409367,
+				"modelYear": 2020,
+				"name": "XL 4WD Reg Cab 8' Box",
+				"nameWoTrim": "4WD Reg Cab 8' Box",
+				"trim": "XL",
+				"mfrModelCode": "F1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Long Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 37495.0,
+					"msrp": 41569.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Regular Cab Pickup",
+						"id": 3,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30624.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30624.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT114B0",
+						"logic": null
+					}
+				],
+				"id": 409368,
+				"modelYear": 2020,
+				"name": "XLT 4WD Reg Cab 8' Box",
+				"nameWoTrim": "4WD Reg Cab 8' Box",
+				"trim": "XLT",
+				"mfrModelCode": "F1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 2,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Regular Cab Pickup - Long Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 34767.0,
+					"msrp": 38469.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT115A0",
+						"logic": null
+					}
+				],
+				"id": 409369,
+				"modelYear": 2020,
+				"name": "XL 2WD SuperCab 6.5' Box",
+				"nameWoTrim": "2WD SuperCab 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 37055.0,
+					"msrp": 41069.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT115B0",
+						"logic": null
+					}
+				],
+				"id": 409370,
+				"modelYear": 2020,
+				"name": "XLT 2WD SuperCab 6.5' Box",
+				"nameWoTrim": "2WD SuperCab 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 47422.0,
+					"msrp": 52849.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT115C0",
+						"logic": null
+					}
+				],
+				"id": 409371,
+				"modelYear": 2020,
+				"name": "LARIAT 2WD SuperCab 6.5' Box",
+				"nameWoTrim": "2WD SuperCab 6.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 38727.0,
+					"msrp": 42969.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT116A0",
+						"logic": null
+					}
+				],
+				"id": 409372,
+				"modelYear": 2020,
+				"name": "XL 4WD SuperCab 6.5' Box",
+				"nameWoTrim": "4WD SuperCab 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 40575.0,
+					"msrp": 45069.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT116B0",
+						"logic": null
+					}
+				],
+				"id": 409373,
+				"modelYear": 2020,
+				"name": "XLT 4WD SuperCab 6.5' Box",
+				"nameWoTrim": "4WD SuperCab 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 51294.0,
+					"msrp": 57249.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT116C0",
+						"logic": null
+					}
+				],
+				"id": 409374,
+				"modelYear": 2020,
+				"name": "LARIAT 4WD SuperCab 6.5' Box",
+				"nameWoTrim": "4WD SuperCab 6.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 36175.0,
+					"msrp": 40069.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT117A0",
+						"logic": null
+					}
+				],
+				"id": 409375,
+				"modelYear": 2020,
+				"name": "XL 2WD SuperCab 8' Box",
+				"nameWoTrim": "2WD SuperCab 8' Box",
+				"trim": "XL",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 37935.0,
+					"msrp": 42069.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT117B0",
+						"logic": null
+					}
+				],
+				"id": 409376,
+				"modelYear": 2020,
+				"name": "XLT 2WD SuperCab 8' Box",
+				"nameWoTrim": "2WD SuperCab 8' Box",
+				"trim": "XLT",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 47422.0,
+					"msrp": 52849.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT117C0",
+						"logic": null
+					}
+				],
+				"id": 409377,
+				"modelYear": 2020,
+				"name": "LARIAT 2WD SuperCab 8' Box",
+				"nameWoTrim": "2WD SuperCab 8' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "X1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 41851.0,
+					"msrp": 46519.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT118A0",
+						"logic": null
+					}
+				],
+				"id": 409378,
+				"modelYear": 2020,
+				"name": "XL 4WD SuperCab 8' Box",
+				"nameWoTrim": "4WD SuperCab 8' Box",
+				"trim": "XL",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 43259.0,
+					"msrp": 48119.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT118B0",
+						"logic": null
+					}
+				],
+				"id": 409379,
+				"modelYear": 2020,
+				"name": "XLT 4WD SuperCab 8' Box",
+				"nameWoTrim": "4WD SuperCab 8' Box",
+				"trim": "XLT",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 53362.0,
+					"msrp": 59599.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Long Bed",
+						"id": 8,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30635.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30635.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT118C0",
+						"logic": null
+					}
+				],
+				"id": 409380,
+				"modelYear": 2020,
+				"name": "LARIAT 4WD SuperCab 8' Box",
+				"nameWoTrim": "4WD SuperCab 8' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "X1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Long Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 37627.0,
+					"msrp": 41719.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT119A0",
+						"logic": null
+					}
+				],
+				"id": 409381,
+				"modelYear": 2020,
+				"name": "XL 2WD SuperCrew 5.5' Box",
+				"nameWoTrim": "2WD SuperCrew 5.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 38375.0,
+					"msrp": 42569.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT119B0",
+						"logic": null
+					}
+				],
+				"id": 409382,
+				"modelYear": 2020,
+				"name": "XLT 2WD SuperCrew 5.5' Box",
+				"nameWoTrim": "2WD SuperCrew 5.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 48742.0,
+					"msrp": 54349.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT119C0",
+						"logic": null
+					}
+				],
+				"id": 409383,
+				"modelYear": 2020,
+				"name": "LARIAT 2WD SuperCrew 5.5' Box",
+				"nameWoTrim": "2WD SuperCrew 5.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 40399.0,
+					"msrp": 44869.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AA0",
+						"logic": null
+					}
+				],
+				"id": 409384,
+				"modelYear": 2020,
+				"name": "XL 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 42027.0,
+					"msrp": 46719.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AB0",
+						"logic": null
+					}
+				],
+				"id": 409385,
+				"modelYear": 2020,
+				"name": "XLT 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 53318.0,
+					"msrp": 59549.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AC0",
+						"logic": null
+					}
+				],
+				"id": 409386,
+				"modelYear": 2020,
+				"name": "LARIAT 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 65330.0,
+					"msrp": 73199.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AD0",
+						"logic": null
+					}
+				],
+				"id": 409387,
+				"modelYear": 2020,
+				"name": "King Ranch 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "King Ranch",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 66078.0,
+					"msrp": 74049.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AE0",
+						"logic": null
+					}
+				],
+				"id": 409388,
+				"modelYear": 2020,
+				"name": "Platinum 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "Platinum",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 76005.0,
+					"msrp": 85329.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11AF0",
+						"logic": null
+					}
+				],
+				"id": 409389,
+				"modelYear": 2020,
+				"name": "Limited 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "Limited",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 38243.0,
+					"msrp": 42419.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11BA0",
+						"logic": null
+					}
+				],
+				"id": 409390,
+				"modelYear": 2020,
+				"name": "XL 2WD SuperCrew 6.5' Box",
+				"nameWoTrim": "2WD SuperCrew 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 38991.0,
+					"msrp": 43269.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11BB0",
+						"logic": null
+					}
+				],
+				"id": 409391,
+				"modelYear": 2020,
+				"name": "XLT 2WD SuperCrew 6.5' Box",
+				"nameWoTrim": "2WD SuperCrew 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 48742.0,
+					"msrp": 54349.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "2WD Standard Pickup Trucks",
+					"id": 3
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11BC0",
+						"logic": null
+					}
+				],
+				"id": 409392,
+				"modelYear": 2020,
+				"name": "LARIAT 2WD SuperCrew 6.5' Box",
+				"nameWoTrim": "2WD SuperCrew 6.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "W1C",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "REAR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 43083.0,
+					"msrp": 47919.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11CA0",
+						"logic": null
+					}
+				],
+				"id": 409393,
+				"modelYear": 2020,
+				"name": "XL 4WD SuperCrew 6.5' Box",
+				"nameWoTrim": "4WD SuperCrew 6.5' Box",
+				"trim": "XL",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 44711.0,
+					"msrp": 49769.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11CB0",
+						"logic": null
+					}
+				],
+				"id": 409394,
+				"modelYear": 2020,
+				"name": "XLT 4WD SuperCrew 6.5' Box",
+				"nameWoTrim": "4WD SuperCrew 6.5' Box",
+				"trim": "XLT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 55386.0,
+					"msrp": 61899.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11CC0",
+						"logic": null
+					}
+				],
+				"id": 409395,
+				"modelYear": 2020,
+				"name": "LARIAT 4WD SuperCrew 6.5' Box",
+				"nameWoTrim": "4WD SuperCrew 6.5' Box",
+				"trim": "LARIAT",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 65330.0,
+					"msrp": 73199.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11CD0",
+						"logic": null
+					}
+				],
+				"id": 409396,
+				"modelYear": 2020,
+				"name": "King Ranch 4WD SuperCrew 6.5' Box",
+				"nameWoTrim": "4WD SuperCrew 6.5' Box",
+				"trim": "King Ranch",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 66078.0,
+					"msrp": 74049.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Standard Bed",
+						"id": 39,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30636.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30636.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11CE0",
+						"logic": null
+					}
+				],
+				"id": 409397,
+				"modelYear": 2020,
+				"name": "Platinum 4WD SuperCrew 6.5' Box",
+				"nameWoTrim": "4WD SuperCrew 6.5' Box",
+				"trim": "Platinum",
+				"mfrModelCode": "W1E",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Standard Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 68410.0,
+					"msrp": 76699.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Extended Cab Pickup",
+						"id": 4,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30626.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30626.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11DA0",
+						"logic": null
+					}
+				],
+				"id": 409453,
+				"modelYear": 2020,
+				"name": "Raptor 4WD SuperCab 5.5' Box",
+				"nameWoTrim": "4WD SuperCab 5.5' Box",
+				"trim": "Raptor",
+				"mfrModelCode": "X1R",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Extended Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			},
+			{
+				"division": {
+					"value": "Ford",
+					"id": 13
+				},
+				"subdivision": {
+					"value": "Ford Pickups",
+					"id": 9365
+				},
+				"model": {
+					"value": "F-150",
+					"id": 32784
+				},
+				"basePrice": {
+					"unknown": false,
+					"invoice": 70610.0,
+					"msrp": 79199.0,
+					"destination": 1950.0
+				},
+				"bodyType": [
+					{
+						"value": "Short Bed",
+						"id": 9,
+						"primary": false
+					},
+					{
+						"value": "Crew Cab Pickup",
+						"id": 5,
+						"primary": true
+					}
+				],
+				"marketClass": {
+					"value": "4WD Standard Pickup Trucks",
+					"id": 4
+				},
+				"stockImage": {
+					"url": "http://media.chromedata.com/autoBuilderData/stockPhotos/30625.jpg",
+					"width": 400,
+					"height": 200,
+					"filename": "30625.jpg"
+				},
+				"mediaGallery": null,
+				"acode": [
+					{
+						"value": "CAD00FOT11EA0",
+						"logic": null
+					}
+				],
+				"id": 409454,
+				"modelYear": 2020,
+				"name": "Raptor 4WD SuperCrew 5.5' Box",
+				"nameWoTrim": "4WD SuperCrew 5.5' Box",
+				"trim": "Raptor",
+				"mfrModelCode": "W1R",
+				"fleetOnly": false,
+				"modelFleet": false,
+				"passDoors": 4,
+				"altModelName": null,
+				"altStyleName": null,
+				"altBodyType": "Crew Cab Pickup - Short Bed",
+				"drivetrain": "FOUR_WHEEL_DRIVE"
+			}
+		],
+		"engine": [],
+		"standard": [
+			{
+				"header": {
+					"value": "MECHANICAL",
+					"id": 1236
+				},
+				"description": "200 Amp Alternator",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "MECHANICAL",
+					"id": 1236
+				},
+				"description": "Electric Power-Assist Speed-Sensing Steering",
+				"category": [
+					{
+						"id": 1084,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "MECHANICAL",
+					"id": 1236
+				},
+				"description": "Double Wishbone Front Suspension w/Coil Springs",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "MECHANICAL",
+					"id": 1236
+				},
+				"description": "Solid Axle Rear Suspension w/Leaf Springs",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "EXTERIOR",
+					"id": 1176
+				},
+				"description": "Regular Box Style",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "EXTERIOR",
+					"id": 1176
+				},
+				"description": "Aluminum Panels",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "EXTERIOR",
+					"id": 1176
+				},
+				"description": "Tailgate Rear Cargo Access",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "EXTERIOR",
+					"id": 1176
+				},
+				"description": "Cargo Lamp w/High Mount Stop Light",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "EXTERIOR",
+					"id": 1176
+				},
+				"description": "Headlights-Automatic Highbeams",
+				"category": [
+					{
+						"id": 1363,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "ENTERTAINMENT",
+					"id": 10689
+				},
+				"description": "Fixed Antenna",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "ENTERTAINMENT",
+					"id": 10689
+				},
+				"description": "2 LCD Monitors In The Front",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Front Cupholder",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Front Cigar Lighter(s)",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Compass",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Glove Box",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Full Cloth Headliner",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Fade-To-Off Interior Lighting",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Cab Mounted Cargo Lights",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Outside Temp Gauge",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "INTERIOR",
+					"id": 1220
+				},
+				"description": "Air Filtration",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Side Impact Beams",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Dual Stage Driver And Passenger Seat-Mounted Side Airbags",
+				"category": [
+					{
+						"id": 1005,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Ford Co-Pilot360 - Pre-Collision Assist with Automatic Emergency Braking (AEB)",
+				"category": [],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Tire Specific Low Tire Pressure Warning",
+				"category": [
+					{
+						"id": 1202,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Dual Stage Driver And Passenger Front Airbags",
+				"category": [
+					{
+						"id": 1001,
+						"removed": null
+					},
+					{
+						"id": 1002,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"header": {
+					"value": "SAFETY",
+					"id": 1343
+				},
+				"description": "Airbag Occupancy Sensor",
+				"category": [
+					{
+						"id": 1310,
+						"removed": null
+					}
+				],
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			}
+		],
+		"factoryOption": [],
+		"genericEquipment": [
+			{
+				"categoryId": 1001,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Air Bag - Frontal",
+						"id": 38
+					},
+					"category": {
+						"value": "Driver Air Bag",
+						"id": 1001
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1002,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Air Bag - Frontal",
+						"id": 38
+					},
+					"category": {
+						"value": "Passenger Air Bag",
+						"id": 1002
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1005,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Air Bag - Side",
+						"id": 39
+					},
+					"category": {
+						"value": "Front Side Air Bag",
+						"id": 1005
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1007,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Air Bag - Side",
+						"id": 39
+					},
+					"category": {
+						"value": "Front Head Air Bag",
+						"id": 1007
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1011,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Air Conditioning",
+						"id": 21
+					},
+					"category": {
+						"value": "A/C",
+						"id": 1011
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1014,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Audio",
+						"id": 22
+					},
+					"category": {
+						"value": "AM/FM Stereo",
+						"id": 1014
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1018,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Brakes",
+						"id": 4
+					},
+					"category": {
+						"value": "ABS",
+						"id": 1018
+					},
+					"type": {
+						"value": "ABS-Brakes",
+						"id": 1
+					}
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1020,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Brakes",
+						"id": 4
+					},
+					"category": {
+						"value": "4-Wheel Disc Brakes",
+						"id": 1020
+					},
+					"type": {
+						"value": "Brakes",
+						"id": 2
+					}
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1084,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Steering",
+						"id": 6
+					},
+					"category": {
+						"value": "Power Steering",
+						"id": 1084
+					},
+					"type": {
+						"value": "Steering",
+						"id": 10
+					}
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1087,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Convenience",
+						"id": 23
+					},
+					"category": {
+						"value": "Adjustable Steering Wheel",
+						"id": 1087
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1099,
+				"definition": {
+					"group": {
+						"value": "Exterior",
+						"id": 2
+					},
+					"header": {
+						"value": "Tire - Spare",
+						"id": 36
+					},
+					"category": {
+						"value": "Conventional Spare Tire",
+						"id": 1099
+					},
+					"type": {
+						"value": "Tire-Spare",
+						"id": 14
+					}
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1100,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Safety Features",
+						"id": 42
+					},
+					"category": {
+						"value": "Traction Control",
+						"id": 1100
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1127,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Convenience",
+						"id": 23
+					},
+					"category": {
+						"value": "Intermittent Wipers",
+						"id": 1127
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1130,
+				"definition": {
+					"group": {
+						"value": "Powertrain",
+						"id": 6
+					},
+					"header": {
+						"value": "Transmission",
+						"id": 15
+					},
+					"category": {
+						"value": "A/T",
+						"id": 1130
+					},
+					"type": {
+						"value": "Transmission - Type",
+						"id": 16
+					}
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1159,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Convenience",
+						"id": 23
+					},
+					"category": {
+						"value": "Variable Speed Intermittent Wipers",
+						"id": 1159
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1166,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Convenience",
+						"id": 23
+					},
+					"category": {
+						"value": "Immobilizer",
+						"id": 1166
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1176,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Mirrors",
+						"id": 27
+					},
+					"category": {
+						"value": "Passenger Vanity Mirror",
+						"id": 1176
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1195,
+				"definition": {
+					"group": {
+						"value": "Powertrain",
+						"id": 6
+					},
+					"header": {
+						"value": "Transmission",
+						"id": 15
+					},
+					"category": {
+						"value": "Transmission w/Dual Shift Mode",
+						"id": 1195
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1202,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Tires",
+						"id": 7
+					},
+					"category": {
+						"value": "Tire Pressure Monitor",
+						"id": 1202
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1224,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Convenience",
+						"id": 23
+					},
+					"category": {
+						"value": "Back-Up Camera",
+						"id": 1224
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1227,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Safety Features",
+						"id": 42
+					},
+					"category": {
+						"value": "Stability Control",
+						"id": 1227
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1228,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Safety Features",
+						"id": 42
+					},
+					"category": {
+						"value": "Brake Assist",
+						"id": 1228
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1230,
+				"definition": {
+					"group": {
+						"value": "Accessories",
+						"id": 8
+					},
+					"header": {
+						"value": "Audio",
+						"id": 22
+					},
+					"category": {
+						"value": "Auxiliary Audio Input",
+						"id": 1230
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1310,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Air Bag - Frontal",
+						"id": 38
+					},
+					"category": {
+						"value": "Passenger Air Bag Sensor",
+						"id": 1310
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1353,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Safety Features",
+						"id": 42
+					},
+					"category": {
+						"value": "Front Collision Mitigation",
+						"id": 1353
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			},
+			{
+				"categoryId": 1363,
+				"definition": {
+					"group": {
+						"value": "Safety",
+						"id": 9
+					},
+					"header": {
+						"value": "Safety Features",
+						"id": 42
+					},
+					"category": {
+						"value": "Automatic Highbeams",
+						"id": 1363
+					},
+					"type": null
+				},
+				"styleId": [
+					409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+					409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+					409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+					409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+					409393, 409394, 409395, 409396, 409397, 409453, 409454
+				],
+				"installed": {
+					"cause": "BaseEquipment",
+					"detail": null
+				}
+			}
+		],
+		"consumerInformation": [],
+		"technicalSpecification": [
+			{
+				"titleId": 10,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Weight Information",
+						"id": 9
+					},
+					"title": {
+						"value": "Base Curb Weight",
+						"id": 10
+					},
+					"measurementUnit": "lbs"
+				},
+				"range": {
+					"min": 4069.0,
+					"max": 5748.0
+				},
+				"value": [
+					{
+						"styleId": [409361],
+						"value": "4070",
+						"condition": "(101A&((53A-R,53A-F)&(995-F,995-R))),((101A&((53A-R,53A-F)&(99B-F,99B-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4166",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&-NONGV0)),(101A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4200",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4071",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4073",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4070",
+						"condition": "153-0,((53A-R,53A-F),(582,((X15-F,X15-R),(X26-F,X26-R))))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4071",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))))"
+					},
+					{
+						"styleId": [409361],
+						"value": "4072",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409361],
+						"value": "4073",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409361],
+						"value": "4077",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4080",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4094",
+						"condition": "18B"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4109",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4114",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4125",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4132",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409361, 409362],
+						"value": "4069",
+						"condition": ""
+					},
+					{
+						"styleId": [409362],
+						"value": "4166",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&-NONGV0)),(301A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409362],
+						"value": "4200",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409362],
+						"value": "4070",
+						"condition": "153-0,(47E-0,(85P,((X15-F,X15-R),(X26-F,X26-R))))"
+					},
+					{
+						"styleId": [409362],
+						"value": "4071",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409362],
+						"value": "4072",
+						"condition": "59R"
+					},
+					{
+						"styleId": [409362],
+						"value": "4077",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409362],
+						"value": "4084",
+						"condition": "(300A-R,300A-F),301A"
+					},
+					{
+						"styleId": [409362],
+						"value": "4088",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409365],
+						"value": "4165",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99B-F,99B-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53C-R,53C-F)&((627-R,627-F)&(994-F,994-R)))))))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4165",
+						"condition": "(101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),((101A&((53A-R,53A-F)&(99B-F,99B-R))),((101A&((53A-R,53A-F)&(99P-F,99P-R))),(101A&((53C-R,53C-F)&(994-F,994-R))))))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4255",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&-NONGV0)),(101A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4310",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4365",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4384",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4528",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(101A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4568",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4166",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4168",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4165",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,((X15-F,X15-R),(X26-F,X26-R)))))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4166",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409365],
+						"value": "4167",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409365],
+						"value": "4168",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4170",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409365],
+						"value": "4172",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4175",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409365],
+						"value": "4181",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4189",
+						"condition": "18B"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4190",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4204",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4209",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4220",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4227",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "4164",
+						"condition": ""
+					},
+					{
+						"styleId": [409366],
+						"value": "4255",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&-NONGV0)),(301A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4310",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4365",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4384",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4528",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(301A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4568",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4165",
+						"condition": "153-0,(47E-0,(85P,((X15-F,X15-R),(X26-F,X26-R))))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4166",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9))))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4167",
+						"condition": "59R"
+					},
+					{
+						"styleId": [409366],
+						"value": "4172",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409366],
+						"value": "4179",
+						"condition": "(300A-R,300A-F),301A"
+					},
+					{
+						"styleId": [409366],
+						"value": "4181",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409366],
+						"value": "4183",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409363],
+						"value": "4344",
+						"condition": "(101A&((53A-R,53A-F)&(995-F,995-R))),((101A&((53A-R,53A-F)&(99B-F,99B-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4444",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&-NONGV0)),(101A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4505",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4345",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4347",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4344",
+						"condition": "153-0,((53A-R,53A-F),(582,((X26-F,X26-R),(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4345",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))))"
+					},
+					{
+						"styleId": [409363],
+						"value": "4346",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409363],
+						"value": "4347",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409363],
+						"value": "4351",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409363],
+						"value": "4354",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4368",
+						"condition": "18B"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4371",
+						"condition": "413"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4383",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4388",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4399",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4406",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "4343",
+						"condition": ""
+					},
+					{
+						"styleId": [409364],
+						"value": "4444",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&-NONGV0)),(301A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4505",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4344",
+						"condition": "153-0,(47E-0,(85P,((X26-F,X26-R),(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4345",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4346",
+						"condition": "59R"
+					},
+					{
+						"styleId": [409364],
+						"value": "4351",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4354",
+						"condition": "(300A-R,300A-F),(301A,(53A-R,53A-F))"
+					},
+					{
+						"styleId": [409364],
+						"value": "4362",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409367],
+						"value": "4419",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99B-F,99B-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53C-R,53C-F)&((627-R,627-F)&(994-F,994-R)))))))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4419",
+						"condition": "(101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),((101A&((53A-R,53A-F)&(99B-F,99B-R))),((101A&((53A-R,53A-F)&(99P-F,99P-R))),(101A&((53C-R,53C-F)&(994-F,994-R))))))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4529",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&-NONGV0)),(101A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4576",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4626",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4636",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4645",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(101A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4758",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4420",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4422",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4419",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,((X19-F,X19-R),(X27-F,X27-R)))))"
+					},
+					{
+						"styleId": [409367],
+						"value": "4420",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))))"
+					},
+					{
+						"styleId": [409367, 409369],
+						"value": "4421",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409367],
+						"value": "4422",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4424",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409367],
+						"value": "4426",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409367],
+						"value": "4429",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409367],
+						"value": "4435",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4443",
+						"condition": "18B"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4444",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4446",
+						"condition": "413"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4458",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4463",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4474",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4481",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "4418",
+						"condition": ""
+					},
+					{
+						"styleId": [409368],
+						"value": "4529",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&-NONGV0)),(301A&((99P-F,99P-R)&-NONGV0))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4576",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4626",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4636",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4645",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(301A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4758",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4419",
+						"condition": "153-0,(47E-0,(85P,((X19-F,X19-R),(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4420",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4421",
+						"condition": "59R"
+					},
+					{
+						"styleId": [409368],
+						"value": "4426",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4429",
+						"condition": "(300A-R,300A-F),(301A,(53A-R,53A-F))"
+					},
+					{
+						"styleId": [409368],
+						"value": "4435",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409368],
+						"value": "4437",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409382],
+						"value": "4568",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R))))),((302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),(302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4568",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),(302A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4568",
+						"condition": "(302A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((302A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),((302A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),((301A&((61X-R,61X-F)&(862-F,862-R))),(302A&((61X-R,61X-F)&(862-F,862-R))))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4603",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),((301A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(302A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4608",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),((301A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(302A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4646",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV3-R,-NONGV3-F))),((301A&((994-F,994-R)&(-NONGV3-R,-NONGV3-F))),(302A&((994-F,994-R)&(-NONGV3-R,-NONGV3-F))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4659",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),((301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(302A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "5011",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4529",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,((X15-F,X15-R),((X26-F,X26-R),(X27-F,X27-R))))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4530",
+						"condition": "(300A-R,300A-F),(301A,(302A,(54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409382],
+						"value": "4531",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409382],
+						"value": "4532",
+						"condition": "17A,302A"
+					},
+					{
+						"styleId": [409382],
+						"value": "4534",
+						"condition": "435-F,435-R"
+					},
+					{
+						"styleId": [409382],
+						"value": "4535",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409382],
+						"value": "4536",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4539",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409382],
+						"value": "4541",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409382],
+						"value": "4545",
+						"condition": "54Y-B,(T82-R,T82-F)"
+					},
+					{
+						"styleId": [409382],
+						"value": "4547",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409382],
+						"value": "4551",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4554",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409382],
+						"value": "4557",
+						"condition": "18C,(T22-F,T22-R)"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4558",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409382],
+						"value": "4561",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409382],
+						"value": "4562",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409382],
+						"value": "4568",
+						"condition": "18B,((61V-R,61V-F),((61X-R,61X-F),(63T,(862-F,862-R))))"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4573",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4584",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4591",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409382],
+						"value": "4592",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "4528",
+						"condition": ""
+					},
+					{
+						"styleId": [409383],
+						"value": "4643",
+						"condition": "(501A&(61L&(863&(994-F,994-R)))),((501A&(61L&(863&(995-F,995-R)))),((502A&(61L&(863&(994-F,994-R)))),((502A&(61L&(863&(995-F,995-R)))),(502A&(61W&(863&(994-F,994-R)))))))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4643",
+						"condition": "502A&(61W&(863&(99P-F,99P-R)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4608",
+						"condition": "(501A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(502A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4643",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4643",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4646",
+						"condition": "(501A&((994-F,994-R)&(-NONGV3-R,-NONGV3-F))),(502A&((994-F,994-R)&(-NONGV3-R,-NONGV3-F)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "5011",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(502A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4604",
+						"condition": "(502A&(991-F,991-R)),((502A&(994-F,994-R)),(502A&(995-F,995-R)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4659",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4604",
+						"condition": "153-0,(502A,((64R-R,64R-F),(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4605",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409383],
+						"value": "4606",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409383],
+						"value": "4607",
+						"condition": "17A"
+					},
+					{
+						"styleId": [409383],
+						"value": "4611",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409383],
+						"value": "4622",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409383],
+						"value": "4624",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409383],
+						"value": "4626",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409383],
+						"value": "4629",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409383],
+						"value": "4632",
+						"condition": "188-0,(T22-F,T22-R)"
+					},
+					{
+						"styleId": [409383],
+						"value": "4633",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409383],
+						"value": "4636",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409383],
+						"value": "4637",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409383],
+						"value": "4643",
+						"condition": "61L,61W,63T,863"
+					},
+					{
+						"styleId": [409383],
+						"value": "4648",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409383],
+						"value": "4660",
+						"condition": "18P"
+					},
+					{
+						"styleId": [409383],
+						"value": "4666",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409383],
+						"value": "4667",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409383],
+						"value": "4603",
+						"condition": ""
+					},
+					{
+						"styleId": [409381],
+						"value": "4529",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53A-R,53A-F)&(622-R,622-F))))))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4529",
+						"condition": "(101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4603",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(101A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4608",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(101A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4646",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV3-R,-NONGV3-F))),(101A&((994-F,994-R)&(-NONGV3-R,-NONGV3-F)))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4659",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409381],
+						"value": "5011",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(101A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4529",
+						"condition": "((X27-F,X27-R),(582,((53C-R,53C-F),((53A-R,53A-F),(153-0,101A)))))&((X27-F,X27-R),(582,((53C-R,53C-F),((53A-R,53A-F),153-0))))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4530",
+						"condition": "(52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))"
+					},
+					{
+						"styleId": [409381],
+						"value": "4531",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409381],
+						"value": "4534",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409381],
+						"value": "4536",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409381],
+						"value": "4545",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409381],
+						"value": "4557",
+						"condition": "T22-F,T22-R"
+					},
+					{
+						"styleId": [409381],
+						"value": "4568",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409391],
+						"value": "4668",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R))))),((302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),(302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4668",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))),(302A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4641",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),((301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(302A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4668",
+						"condition": "(301A&((61X-R,61X-F)&(862-F,862-R))),((301A&((862-F,862-R)&(91V-R,91V-F))),((302A&((61X-R,61X-F)&(862-F,862-R))),(302A&((862-F,862-R)&(91V-R,91V-F)))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4675",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),((301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(302A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4870",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),((301A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(302A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4929",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),((301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(302A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "5077",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4685",
+						"condition": "((300A-R,300A-F)&(-NONGV4-R,-NONGV4-F)),((301A&(-NONGV4-R,-NONGV4-F)),(302A&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4629",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4630",
+						"condition": "(300A-R,300A-F),(301A,(302A,(54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409391],
+						"value": "4631",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409391],
+						"value": "4632",
+						"condition": "17A,302A"
+					},
+					{
+						"styleId": [409391],
+						"value": "4634",
+						"condition": "435-F,435-R"
+					},
+					{
+						"styleId": [409391],
+						"value": "4635",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409391],
+						"value": "4636",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409390, 409391],
+						"value": "4639",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409391],
+						"value": "4641",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409391],
+						"value": "4645",
+						"condition": "54Y-B,(T82-R,T82-F)"
+					},
+					{
+						"styleId": [409391],
+						"value": "4647",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409377, 409390, 409391, 409392],
+						"value": "4651",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "4654",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409391],
+						"value": "4657",
+						"condition": "18C,(T22-F,T22-R)"
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "4658",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409391, 409392],
+						"value": "4661",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409391, 409392],
+						"value": "4662",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409391],
+						"value": "4668",
+						"condition": "18B,((61V-R,61V-F),((61X-R,61X-F),(63T,(862-F,862-R))))"
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "4673",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409390, 409391],
+						"value": "4684",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "4691",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409391, 409392],
+						"value": "4692",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "4628",
+						"condition": ""
+					},
+					{
+						"styleId": [409392],
+						"value": "4668",
+						"condition": "(501A&(61L&(863&(994-F,994-R)))),((501A&(61L&(863&(995-F,995-R)))),((502A&(61L&(863&(994-F,994-R)))),((502A&(61L&(863&(995-F,995-R)))),(502A&(61W&(863&(994-F,994-R)))))))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4668",
+						"condition": "502A&(61W&(863&(99P-F,99P-R)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4641",
+						"condition": "(501A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(502A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4668",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4668",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4675",
+						"condition": "(501A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(502A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "5077",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(502A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4629",
+						"condition": "(502A&(991-F,991-R)),((502A&(994-F,994-R)),(502A&(995-F,995-R)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4685",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4629",
+						"condition": "153-0,(502A,((64R-R,64R-F),(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4630",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409392],
+						"value": "4631",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409392],
+						"value": "4632",
+						"condition": "17A"
+					},
+					{
+						"styleId": [409392],
+						"value": "4636",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409392],
+						"value": "4647",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409392],
+						"value": "4649",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409392],
+						"value": "4657",
+						"condition": "188-0,(T22-F,T22-R)"
+					},
+					{
+						"styleId": [409392],
+						"value": "4668",
+						"condition": "61L,61W,63T,863"
+					},
+					{
+						"styleId": [409392],
+						"value": "4685",
+						"condition": "18P"
+					},
+					{
+						"styleId": [409390],
+						"value": "4629",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53A-R,53A-F)&(991-F,991-R))))))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4629",
+						"condition": "(101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4641",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4675",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4870",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(101A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4929",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409390],
+						"value": "5077",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(101A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4685",
+						"condition": "((100A-F,100A-R)&(-NONGV4-R,-NONGV4-F)),(101A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4629",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4630",
+						"condition": "(52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))"
+					},
+					{
+						"styleId": [409390],
+						"value": "4631",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409390],
+						"value": "4634",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409390],
+						"value": "4636",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409390],
+						"value": "4645",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409390],
+						"value": "4657",
+						"condition": "T22-F,T22-R"
+					},
+					{
+						"styleId": [409390],
+						"value": "4668",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53A-R,53A-F)&(622-R,622-F))))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "(101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4859",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(101A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4868",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NNGV6-1-F,-NNGV6-1-R))),(101A&((995-F,995-R)&(-NNGV6-1-F,-NNGV6-1-R)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4898",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NNGV6-1-F,-NNGV6-1-R))),(101A&((994-F,994-R)&(-NNGV6-1-F,-NNGV6-1-R)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4902",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "5286",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-2-R,-NNGV6-2-F))),(101A&((991-F,991-R)&(-NNGV6-2-R,-NNGV6-2-F)))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4771",
+						"condition": "((X19-F,X19-R),(582,((53C-R,53C-F),((53A-R,53A-F),(153-0,101A)))))&((X19-F,X19-R),(582,((53C-R,53C-F),((53A-R,53A-F),153-0))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4772",
+						"condition": "(52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))"
+					},
+					{
+						"styleId": [409384],
+						"value": "4773",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409384],
+						"value": "4776",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409384],
+						"value": "4778",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4781",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409384],
+						"value": "4784",
+						"condition": "T2P-R,T2P-F"
+					},
+					{
+						"styleId": [409384],
+						"value": "4787",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4796",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4798",
+						"condition": "413"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4800",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409384],
+						"value": "4810",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4815",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4826",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4833",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "4770",
+						"condition": ""
+					},
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),(((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),((301A&((61X-R,61X-F)&(862-F,862-R))),((301A&((862-F,862-R)&(91V-R,91V-F))),((302A&((61X-R,61X-F)&(862-F,862-R))),(302A&((862-F,862-R)&(91V-R,91V-F)))))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "(61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4859",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),((301A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(302A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4868",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((995-F,995-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((995-F,995-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4898",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((994-F,994-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((994-F,994-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4902",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),((301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(302A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "5286",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4771",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,((X19-F,X19-R),(X27-F,X27-R)))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4772",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4773",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409385],
+						"value": "4774",
+						"condition": "17A,302A"
+					},
+					{
+						"styleId": [409385],
+						"value": "4776",
+						"condition": "435-F,435-R"
+					},
+					{
+						"styleId": [409385],
+						"value": "4777",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409385],
+						"value": "4778",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4779",
+						"condition": "(300A-R,300A-F),(301A,302A)"
+					},
+					{
+						"styleId": [409385],
+						"value": "4783",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409385],
+						"value": "4784",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409385],
+						"value": "4787",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409385],
+						"value": "4789",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409385],
+						"value": "4793",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409385],
+						"value": "4799",
+						"condition": "18C"
+					},
+					{
+						"styleId": [409385],
+						"value": "4803",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409385],
+						"value": "4804",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409385],
+						"value": "4810",
+						"condition": "18B,((61V-R,61V-F),((61X-R,61X-F),(63T,(862-F,862-R))))"
+					},
+					{
+						"styleId": [409385],
+						"value": "4813",
+						"condition": "T84-F,T84-R"
+					},
+					{
+						"styleId": [409385],
+						"value": "4834",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "(501A&(61L&(863&(994-F,994-R)))),((501A&(61L&(863&(995-F,995-R)))),((502A&(61L&(863&(994-F,994-R)))),((502A&(61L&(863&(995-F,995-R)))),(502A&(61W&(863&(994-F,994-R)))))))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "502A&(61W&(863&(99P-F,99P-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4868",
+						"condition": "(501A&((995-F,995-R)&(-NNGV6-1-F,-NNGV6-1-R))),(502A&((995-F,995-R)&(-NNGV6-1-F,-NNGV6-1-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4898",
+						"condition": "(501A&((994-F,994-R)&(-NNGV6-1-F,-NNGV6-1-R))),(502A&((994-F,994-R)&(-NNGV6-1-F,-NNGV6-1-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409386],
+						"value": "5271",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-2-R,-NNGV6-2-F))),(502A&((991-F,991-R)&(-NNGV6-2-R,-NNGV6-2-F)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4860",
+						"condition": "(502A&(991-F,991-R)),((502A&(994-F,994-R)),(502A&(995-F,995-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4902",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4860",
+						"condition": "153-0,(502A,((64R-R,64R-F),(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4861",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))"
+					},
+					{
+						"styleId": [409386],
+						"value": "4862",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409386],
+						"value": "4863",
+						"condition": "17A"
+					},
+					{
+						"styleId": [409386],
+						"value": "4867",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409386],
+						"value": "4873",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409386],
+						"value": "4878",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409386],
+						"value": "4880",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409386],
+						"value": "4882",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409386],
+						"value": "4885",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409386],
+						"value": "4887",
+						"condition": "413"
+					},
+					{
+						"styleId": [409386],
+						"value": "4888",
+						"condition": "188-0"
+					},
+					{
+						"styleId": [409386],
+						"value": "4889",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409386],
+						"value": "4892",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409386],
+						"value": "4893",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409386],
+						"value": "4899",
+						"condition": "61L,61W,63T,863"
+					},
+					{
+						"styleId": [409386],
+						"value": "4904",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409386],
+						"value": "4916",
+						"condition": "18P"
+					},
+					{
+						"styleId": [409386],
+						"value": "4922",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409386],
+						"value": "4923",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409386],
+						"value": "4859",
+						"condition": ""
+					},
+					{
+						"styleId": [409387],
+						"value": "4898",
+						"condition": "601A&((994-F,994-R)&-STDGV)"
+					},
+					{
+						"styleId": [409387],
+						"value": "5271",
+						"condition": "601A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4869",
+						"condition": "153-0"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4870",
+						"condition": "(XL3-F,XL3-R),((XL6-F,XL6-R),XL9)"
+					},
+					{
+						"styleId": [409387],
+						"value": "4871",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4876",
+						"condition": "96L"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4887",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409387],
+						"value": "4888",
+						"condition": "601A"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4889",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4894",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4896",
+						"condition": "413"
+					},
+					{
+						"styleId": [409387],
+						"value": "4897",
+						"condition": "86K"
+					},
+					{
+						"styleId": [409387],
+						"value": "4902",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4913",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409387],
+						"value": "4925",
+						"condition": "18P"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4931",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4932",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "4868",
+						"condition": ""
+					},
+					{
+						"styleId": [409389],
+						"value": "5415",
+						"condition": "153-0"
+					},
+					{
+						"styleId": [409389],
+						"value": "5422",
+						"condition": "96L"
+					},
+					{
+						"styleId": [409389],
+						"value": "5433",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409389],
+						"value": "5437",
+						"condition": "900A"
+					},
+					{
+						"styleId": [409389],
+						"value": "5442",
+						"condition": "413"
+					},
+					{
+						"styleId": [409389],
+						"value": "5459",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409389],
+						"value": "5477",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409389],
+						"value": "5414",
+						"condition": ""
+					},
+					{
+						"styleId": [409388],
+						"value": "4898",
+						"condition": "700A&((994-F,994-R)&-STDGV)"
+					},
+					{
+						"styleId": [409388],
+						"value": "5271",
+						"condition": "700A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))"
+					},
+					{
+						"styleId": [409388],
+						"value": "4892",
+						"condition": "700A"
+					},
+					{
+						"styleId": [409454],
+						"value": "5685",
+						"condition": "47E-0,802A"
+					},
+					{
+						"styleId": [409454],
+						"value": "5687",
+						"condition": "802A"
+					},
+					{
+						"styleId": [409454],
+						"value": "5688",
+						"condition": "17A"
+					},
+					{
+						"styleId": [409454],
+						"value": "5691",
+						"condition": "802A"
+					},
+					{
+						"styleId": [409454],
+						"value": "5692",
+						"condition": "50N-R,50N-F"
+					},
+					{
+						"styleId": [409454],
+						"value": "5703",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409454],
+						"value": "5724",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409454],
+						"value": "5729",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409454],
+						"value": "5748",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409454],
+						"value": "5684",
+						"condition": ""
+					},
+					{
+						"styleId": [409393],
+						"value": "4914",
+						"condition": "(101A&((53C-R,53C-F)&((627-R,627-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),(101A&((53C-R,53C-F)&(994-F,994-R)))))"
+					},
+					{
+						"styleId": [409393],
+						"value": "4946",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&-STDGV)),(101A&((994-F,994-R)&-STDGV))"
+					},
+					{
+						"styleId": [409393],
+						"value": "5108",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409393],
+						"value": "5335",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(101A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409393],
+						"value": "4914",
+						"condition": "101A&(53A-R,53A-F)"
+					},
+					{
+						"styleId": [409393],
+						"value": "5086",
+						"condition": "((100A-F,100A-R)&(-NONGV5-R,-NONGV5-F)),(101A&(-NONGV5-R,-NONGV5-F))"
+					},
+					{
+						"styleId": [409393],
+						"value": "4914",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),582))"
+					},
+					{
+						"styleId": [409393],
+						"value": "4915",
+						"condition": "(52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))"
+					},
+					{
+						"styleId": [409393],
+						"value": "4916",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409393],
+						"value": "4919",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409393],
+						"value": "4921",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409393, 409394],
+						"value": "4924",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409393],
+						"value": "4927",
+						"condition": "T2P-R,T2P-F"
+					},
+					{
+						"styleId": [409393],
+						"value": "4930",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409393, 409394, 409395],
+						"value": "4936",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "4939",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "4941",
+						"condition": "413"
+					},
+					{
+						"styleId": [409393, 409394, 409395],
+						"value": "4943",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409393],
+						"value": "4953",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "4958",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409393, 409394],
+						"value": "4969",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "4976",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "4913",
+						"condition": ""
+					},
+					{
+						"styleId": [409394],
+						"value": "4953",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((301A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))),(302A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F))))))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4946",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&-STDGV)),((301A&((994-F,994-R)&-STDGV)),(302A&((994-F,994-R)&-STDGV)))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4953",
+						"condition": "(301A&((61X-R,61X-F)&(862-F,862-R))),((301A&((862-F,862-R)&(91V-R,91V-F))),(302A&((61X-R,61X-F)&(862-F,862-R))))"
+					},
+					{
+						"styleId": [409394],
+						"value": "5108",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),((301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(302A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409394],
+						"value": "5335",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4917",
+						"condition": "302A&(862-F,862-R)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4920",
+						"condition": "302A&(862-F,862-R)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4926",
+						"condition": "302A&(862-F,862-R)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4953",
+						"condition": "302A&(862-F,862-R)"
+					},
+					{
+						"styleId": [409394],
+						"value": "5086",
+						"condition": "((300A-R,300A-F)&(-NONGV5-R,-NONGV5-F)),((301A&(-NONGV5-R,-NONGV5-F)),(302A&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4914",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),85P))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4915",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4916",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4917",
+						"condition": "17A,302A"
+					},
+					{
+						"styleId": [409394],
+						"value": "4919",
+						"condition": "435-F,435-R"
+					},
+					{
+						"styleId": [409394],
+						"value": "4920",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409394],
+						"value": "4921",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4922",
+						"condition": "(300A-R,300A-F),(301A,302A)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4926",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409394, 409395],
+						"value": "4927",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409394],
+						"value": "4930",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409394, 409396, 409397],
+						"value": "4932",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409394],
+						"value": "4942",
+						"condition": "18C"
+					},
+					{
+						"styleId": [409394, 409395],
+						"value": "4946",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409394, 409395, 409396],
+						"value": "4947",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409394],
+						"value": "4953",
+						"condition": "18B,((61V-R,61V-F),((61X-R,61X-F),(63T,(862-F,862-R))))"
+					},
+					{
+						"styleId": [409394],
+						"value": "4956",
+						"condition": "T84-F,T84-R"
+					},
+					{
+						"styleId": [409394, 409395, 409396, 409397],
+						"value": "4977",
+						"condition": "43V"
+					},
+					{
+						"styleId": [409395],
+						"value": "4953",
+						"condition": "502A&(61W&(863&(994-F,994-R)))"
+					},
+					{
+						"styleId": [409395],
+						"value": "4946",
+						"condition": "(501A&((994-F,994-R)&-STDGV)),(502A&((994-F,994-R)&-STDGV))"
+					},
+					{
+						"styleId": [409395],
+						"value": "4953",
+						"condition": "(501A&(61L&863)),((501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((502A&(61L&863)),(502A&(61W&863))))))"
+					},
+					{
+						"styleId": [409395],
+						"value": "4953",
+						"condition": "(502A&((64S-R,64S-F)&863)),((502A&(863&(994-F,994-R))),(502A&(863&(995-F,995-R))))"
+					},
+					{
+						"styleId": [409395],
+						"value": "5320",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(502A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409395],
+						"value": "4914",
+						"condition": "153-0,(502A,(64R-R,64R-F))"
+					},
+					{
+						"styleId": [409395],
+						"value": "4915",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))"
+					},
+					{
+						"styleId": [409395, 409396],
+						"value": "4916",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409395],
+						"value": "4917",
+						"condition": "17A"
+					},
+					{
+						"styleId": [409395],
+						"value": "4921",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409395],
+						"value": "4932",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409395, 409396, 409397],
+						"value": "4934",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409395],
+						"value": "4942",
+						"condition": "188-0"
+					},
+					{
+						"styleId": [409395],
+						"value": "4953",
+						"condition": "61L,61W,63T,863"
+					},
+					{
+						"styleId": [409395, 409396],
+						"value": "4970",
+						"condition": "18P"
+					},
+					{
+						"styleId": [409396],
+						"value": "4946",
+						"condition": "601A&((994-F,994-R)&-STDGV)"
+					},
+					{
+						"styleId": [409396],
+						"value": "5320",
+						"condition": "601A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))"
+					},
+					{
+						"styleId": [409396, 409397],
+						"value": "4914",
+						"condition": "153-0"
+					},
+					{
+						"styleId": [409396, 409397],
+						"value": "4915",
+						"condition": "(XL3-F,XL3-R),((XL6-F,XL6-R),XL9)"
+					},
+					{
+						"styleId": [409396, 409397],
+						"value": "4921",
+						"condition": "96L"
+					},
+					{
+						"styleId": [409396],
+						"value": "4933",
+						"condition": "601A"
+					},
+					{
+						"styleId": [409396],
+						"value": "4942",
+						"condition": "86K"
+					},
+					{
+						"styleId": [409397],
+						"value": "4946",
+						"condition": "700A&((994-F,994-R)&-STDGV)"
+					},
+					{
+						"styleId": [409397],
+						"value": "5320",
+						"condition": "700A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))"
+					},
+					{
+						"styleId": [409397],
+						"value": "4937",
+						"condition": "700A"
+					},
+					{
+						"styleId": [409369],
+						"value": "4416",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99B-F,99B-R)))),(101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))))))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4416",
+						"condition": "(101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),((101A&((53A-R,53A-F)&(99B-F,99B-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R))))))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4506",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(101A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4534",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(101A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4576",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4590",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4975",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(101A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4417",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4419",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4416",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,((X15-F,X15-R),((X26-F,X26-R),(X27-F,X27-R))))))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4417",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409369],
+						"value": "4418",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409369],
+						"value": "4419",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409369],
+						"value": "4423",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4426",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409369],
+						"value": "4432",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409369],
+						"value": "4441",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4444",
+						"condition": "T22-F,T22-R"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4445",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409369],
+						"value": "4455",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4460",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4471",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4478",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "4415",
+						"condition": ""
+					},
+					{
+						"styleId": [409370],
+						"value": "4455",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R))))),((302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),(302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4455",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),(302A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4455",
+						"condition": "(302A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((302A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),(302A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4506",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),((301A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))),(302A&((99P-F,99P-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4534",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),((301A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(302A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4576",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),((301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(302A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4590",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),((301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(302A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4975",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4416",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,((X15-F,X15-R),((X26-F,X26-R),(X27-F,X27-R))))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4417",
+						"condition": "(300A-R,300A-F),(301A,(302A,(54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4418",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409370],
+						"value": "4419",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409370],
+						"value": "4421",
+						"condition": "(435-F,435-R),(T8C-F,T8C-R)"
+					},
+					{
+						"styleId": [409370],
+						"value": "4422",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409370],
+						"value": "4423",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409370],
+						"value": "4428",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409370],
+						"value": "4432",
+						"condition": "54Y-B,(T82-R,T82-F)"
+					},
+					{
+						"styleId": [409370],
+						"value": "4434",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409370],
+						"value": "4441",
+						"condition": "18C,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409370],
+						"value": "4448",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409370],
+						"value": "4449",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409370],
+						"value": "4455",
+						"condition": "18B,((61V-R,61V-F),(63T,(862-F,862-R)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4546",
+						"condition": "(502A&(61W&(863&(994-F,994-R)))),(502A&(61W&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4534",
+						"condition": "(501A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(502A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4546",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4546",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4590",
+						"condition": "(501A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(502A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4975",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(502A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4576",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4507",
+						"condition": "153-0,((64R-R,64R-F),((X15-F,X15-R),(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4508",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409371],
+						"value": "4509",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409371],
+						"value": "4512",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409371],
+						"value": "4514",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409371],
+						"value": "4525",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409371],
+						"value": "4527",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409371],
+						"value": "4532",
+						"condition": "188-0,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409371],
+						"value": "4535",
+						"condition": "T22-F,T22-R"
+					},
+					{
+						"styleId": [409371],
+						"value": "4536",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409371],
+						"value": "4539",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409371],
+						"value": "4540",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409371],
+						"value": "4546",
+						"condition": "61W,63T,863"
+					},
+					{
+						"styleId": [409371],
+						"value": "4551",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409371],
+						"value": "4569",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409371],
+						"value": "4506",
+						"condition": ""
+					},
+					{
+						"styleId": [409375],
+						"value": "4646",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53C-R,53C-F)&((627-R,627-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&(622-R,622-F))),(101A&((53A-R,53A-F)&(994-F,994-R))))))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4646",
+						"condition": "(101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53C-R,53C-F)&(994-F,994-R)))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4655",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(101A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4732",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(101A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4747",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4851",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4646",
+						"condition": "101A&(53A-R,53A-F)"
+					},
+					{
+						"styleId": [409375],
+						"value": "4647",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4649",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4700",
+						"condition": "((100A-F,100A-R)&(-NONGV4-R,-NONGV4-F)),(101A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4646",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,(X27-F,X27-R))))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4647",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4648",
+						"condition": "91V-R,91V-F"
+					},
+					{
+						"styleId": [409375],
+						"value": "4649",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409375],
+						"value": "4651",
+						"condition": "168-1,(168-2,(T8C-F,T8C-R))"
+					},
+					{
+						"styleId": [409375],
+						"value": "4653",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409375, 409376],
+						"value": "4656",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409375],
+						"value": "4662",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409375],
+						"value": "4671",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409375, 409376],
+						"value": "4685",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409375, 409376, 409377],
+						"value": "4690",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409375, 409376],
+						"value": "4701",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409375, 409376, 409377],
+						"value": "4708",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409375, 409376, 409377],
+						"value": "4645",
+						"condition": ""
+					},
+					{
+						"styleId": [409376],
+						"value": "4655",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),((301A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))),(302A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4732",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),((301A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))),(302A&((995-F,995-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4747",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),((301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(302A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4851",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),((301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(302A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4700",
+						"condition": "((300A-R,300A-F)&(-NONGV4-R,-NONGV4-F)),((301A&(-NONGV4-R,-NONGV4-F)),(302A&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4646",
+						"condition": "153-0,(47E-0,(85P,(X27-F,X27-R)))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4647",
+						"condition": "(300A-R,300A-F),(301A,(302A,(54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))))))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4648",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409376],
+						"value": "4649",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409376],
+						"value": "4651",
+						"condition": "(435-F,435-R),(T8C-F,T8C-R)"
+					},
+					{
+						"styleId": [409376],
+						"value": "4652",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409376],
+						"value": "4653",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409376],
+						"value": "4658",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409376],
+						"value": "4662",
+						"condition": "54Y-B,(T82-R,T82-F)"
+					},
+					{
+						"styleId": [409376],
+						"value": "4664",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409376],
+						"value": "4671",
+						"condition": "18C,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409376, 409377],
+						"value": "4674",
+						"condition": "T22-F,T22-R"
+					},
+					{
+						"styleId": [409376, 409377],
+						"value": "4679",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409377],
+						"value": "4655",
+						"condition": "501A&((995-F,995-R)&(-NONGV1-F,-NONGV1-R))"
+					},
+					{
+						"styleId": [409377],
+						"value": "4747",
+						"condition": "501A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))"
+					},
+					{
+						"styleId": [409377],
+						"value": "4700",
+						"condition": "501A&(-NONGV4-R,-NONGV4-F)"
+					},
+					{
+						"styleId": [409377],
+						"value": "4646",
+						"condition": "153-0,(X27-F,X27-R)"
+					},
+					{
+						"styleId": [409377],
+						"value": "4647",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL5-F,XL5-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409377],
+						"value": "4653",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409377],
+						"value": "4664",
+						"condition": "501A,63E"
+					},
+					{
+						"styleId": [409377],
+						"value": "4666",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409377],
+						"value": "4671",
+						"condition": "188-0,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409377],
+						"value": "4685",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409372],
+						"value": "4676",
+						"condition": "(101A&((53A-R,53A-F)&((622-R,622-F)&(991-F,991-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(995-F,995-R)))),((101A&((53A-R,53A-F)&((622-R,622-F)&(99P-F,99P-R)))),(101A&((53A-R,53A-F)&(622-R,622-F))))))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4676",
+						"condition": "(101A&((53A-R,53A-F)&(991-F,991-R))),((101A&((53A-R,53A-F)&(994-F,994-R))),((101A&((53A-R,53A-F)&(995-F,995-R))),(101A&((53A-R,53A-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4800",
+						"condition": "((100A-F,100A-R)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(101A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4806",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&-STDGV)),(101A&((99P-F,99P-R)&-STDGV))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4813",
+						"condition": "((100A-F,100A-R)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(101A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F)))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4842",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(101A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409372],
+						"value": "5251",
+						"condition": "((100A-F,100A-R)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(101A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4676",
+						"condition": "101A&(53A-R,53A-F)"
+					},
+					{
+						"styleId": [409372],
+						"value": "4677",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4679",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4676",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),(582,((X19-F,X19-R),(X27-F,X27-R)))))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4677",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))))"
+					},
+					{
+						"styleId": [409372],
+						"value": "4678",
+						"condition": "(61S-F,61S-R),(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409372],
+						"value": "4679",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409372],
+						"value": "4681",
+						"condition": "168-1,168-2"
+					},
+					{
+						"styleId": [409372],
+						"value": "4683",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4686",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409372],
+						"value": "4689",
+						"condition": "T2P-R,T2P-F"
+					},
+					{
+						"styleId": [409372],
+						"value": "4692",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409372],
+						"value": "4701",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4703",
+						"condition": "413"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4705",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409372],
+						"value": "4715",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4720",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4731",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4738",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "4675",
+						"condition": ""
+					},
+					{
+						"styleId": [409373],
+						"value": "4715",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),((301A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R))))),((302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R))))),(302A&((61V-R,61V-F)&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4715",
+						"condition": "(301A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),((301A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))),(302A&((61V-R,61V-F)&((862-F,862-R)&(91V-R,91V-F)))))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4715",
+						"condition": "(302A&((862-F,862-R)&((91V-R,91V-F)&(994-F,994-R)))),((302A&((862-F,862-R)&((91V-R,91V-F)&(995-F,995-R)))),(302A&((862-F,862-R)&((91V-R,91V-F)&(99P-F,99P-R)))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4800",
+						"condition": "((300A-R,300A-F)&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),((301A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))),(302A&((995-F,995-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4806",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&-STDGV)),((301A&((99P-F,99P-R)&-STDGV)),(302A&((99P-F,99P-R)&-STDGV)))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4813",
+						"condition": "((300A-R,300A-F)&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),((301A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))),(302A&((99P-F,99P-R)&(-NONGV4-R,-NONGV4-F))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4842",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),((301A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(302A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "5251",
+						"condition": "((300A-R,300A-F)&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),((301A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(302A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4676",
+						"condition": "153-0,(47E-0,((64R-R,64R-F),(85P,((X19-F,X19-R),(X27-F,X27-R)))))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4677",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4678",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409373],
+						"value": "4679",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409373],
+						"value": "4681",
+						"condition": "(435-F,435-R),(T8C-F,T8C-R)"
+					},
+					{
+						"styleId": [409373],
+						"value": "4682",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409373],
+						"value": "4683",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4684",
+						"condition": "(300A-R,300A-F),(301A,302A)"
+					},
+					{
+						"styleId": [409373],
+						"value": "4688",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409373],
+						"value": "4689",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409373],
+						"value": "4692",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409373],
+						"value": "4694",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409373],
+						"value": "4701",
+						"condition": "18C,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409373],
+						"value": "4708",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409373],
+						"value": "4709",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409373],
+						"value": "4715",
+						"condition": "18B,((61V-R,61V-F),(63T,(862-F,862-R)))"
+					},
+					{
+						"styleId": [409373],
+						"value": "4718",
+						"condition": "T84-F,T84-R"
+					},
+					{
+						"styleId": [409374],
+						"value": "4846",
+						"condition": "(502A&(61W&(863&(994-F,994-R)))),(502A&(61W&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4842",
+						"condition": "(501A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F))),(502A&((994-F,994-R)&(-NONGV2-R,-NONGV2-F)))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4846",
+						"condition": "(501A&((64S-R,64S-F)&863)),((501A&(863&(994-F,994-R))),((501A&(863&(995-F,995-R))),((501A&(863&(99P-F,99P-R))),((502A&(61W&863)),(502A&((64S-R,64S-F)&863))))))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4846",
+						"condition": "(502A&(863&(994-F,994-R))),((502A&(863&(995-F,995-R))),(502A&(863&(99P-F,99P-R))))"
+					},
+					{
+						"styleId": [409374],
+						"value": "5236",
+						"condition": "(501A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R))),(502A&((991-F,991-R)&(-NNGV6-A-F,-NNGV6-A-R)))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4813",
+						"condition": "(501A&(-NONGV4-R,-NONGV4-F)),(502A&(-NONGV4-R,-NONGV4-F))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4807",
+						"condition": "153-0,((64R-R,64R-F),(X27-F,X27-R))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4808",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))"
+					},
+					{
+						"styleId": [409374],
+						"value": "4809",
+						"condition": "50C"
+					},
+					{
+						"styleId": [409374],
+						"value": "4812",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409374],
+						"value": "4814",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409374],
+						"value": "4820",
+						"condition": "(T24-F,T24-R),(T2P-R,T2P-F)"
+					},
+					{
+						"styleId": [409374],
+						"value": "4825",
+						"condition": "501A,502A,63E"
+					},
+					{
+						"styleId": [409374],
+						"value": "4827",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409374],
+						"value": "4832",
+						"condition": "188-0,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409374],
+						"value": "4834",
+						"condition": "413"
+					},
+					{
+						"styleId": [409374],
+						"value": "4836",
+						"condition": "64A-R,64A-F"
+					},
+					{
+						"styleId": [409374],
+						"value": "4839",
+						"condition": "64S-R,64S-F"
+					},
+					{
+						"styleId": [409374],
+						"value": "4840",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409374],
+						"value": "4846",
+						"condition": "61W,63T,863"
+					},
+					{
+						"styleId": [409374],
+						"value": "4851",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409374],
+						"value": "4869",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409374],
+						"value": "4806",
+						"condition": ""
+					},
+					{
+						"styleId": [409378],
+						"value": "4929",
+						"condition": "(101A&((53C-R,53C-F)&((627-R,627-F)&(994-F,994-R)))),((101A&((53A-R,53A-F)&(994-F,994-R))),(101A&((53C-R,53C-F)&(994-F,994-R))))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4946",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV1-F,-NONGV1-R))),(101A&((994-F,994-R)&(-NONGV1-F,-NONGV1-R)))"
+					},
+					{
+						"styleId": [409378],
+						"value": "5066",
+						"condition": "((100A-F,100A-R)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(101A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4929",
+						"condition": "101A&(53A-R,53A-F)"
+					},
+					{
+						"styleId": [409378],
+						"value": "4930",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4932",
+						"condition": "((100A-F,100A-R)&(85A-F,85A-R)),(101A&(85A-F,85A-R))"
+					},
+					{
+						"styleId": [409378],
+						"value": "5030",
+						"condition": "((100A-F,100A-R)&(-NONGV5-R,-NONGV5-F)),(101A&(-NONGV5-R,-NONGV5-F))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4929",
+						"condition": "153-0,((53A-R,53A-F),((53C-R,53C-F),582))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4930",
+						"condition": "101A,((52P-R,52P-F),((54R-1-R,54R-1-F),((54R-2-R,54R-2-F),((85A-F,85A-R),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))))))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4931",
+						"condition": "91V-R,91V-F"
+					},
+					{
+						"styleId": [409378],
+						"value": "4932",
+						"condition": "101A,(85A-F,85A-R)"
+					},
+					{
+						"styleId": [409378],
+						"value": "4934",
+						"condition": "168-1,(168-2,(T8C-F,T8C-R))"
+					},
+					{
+						"styleId": [409378],
+						"value": "4936",
+						"condition": "55B,96L"
+					},
+					{
+						"styleId": [409378, 409379],
+						"value": "4939",
+						"condition": "53A-R,53A-F"
+					},
+					{
+						"styleId": [409378],
+						"value": "4945",
+						"condition": "54Y-1,54Y-2"
+					},
+					{
+						"styleId": [409378],
+						"value": "4954",
+						"condition": "53C-R,53C-F"
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "4956",
+						"condition": "413"
+					},
+					{
+						"styleId": [409378, 409379],
+						"value": "4968",
+						"condition": "18B,63T"
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "4973",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409378, 409379],
+						"value": "4984",
+						"condition": "T7C-F,T7C-R"
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "4991",
+						"condition": "63S"
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "4928",
+						"condition": ""
+					},
+					{
+						"styleId": [409379],
+						"value": "4946",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV1-F,-NONGV1-R))),((301A&((994-F,994-R)&(-NONGV1-F,-NONGV1-R))),(302A&((994-F,994-R)&(-NONGV1-F,-NONGV1-R))))"
+					},
+					{
+						"styleId": [409379],
+						"value": "5066",
+						"condition": "((300A-R,300A-F)&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),((301A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))),(302A&((994-F,994-R)&(-NONGV5-R,-NONGV5-F))))"
+					},
+					{
+						"styleId": [409379],
+						"value": "5030",
+						"condition": "((300A-R,300A-F)&(-NONGV5-R,-NONGV5-F)),((301A&(-NONGV5-R,-NONGV5-F)),(302A&(-NONGV5-R,-NONGV5-F)))"
+					},
+					{
+						"styleId": [409379],
+						"value": "4929",
+						"condition": "153-0,47E-0,85P"
+					},
+					{
+						"styleId": [409379],
+						"value": "4930",
+						"condition": "54R-B,((954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9)))"
+					},
+					{
+						"styleId": [409379],
+						"value": "4931",
+						"condition": "59R,(91V-R,91V-F)"
+					},
+					{
+						"styleId": [409379],
+						"value": "4932",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409379],
+						"value": "4934",
+						"condition": "(435-F,435-R),(T8C-F,T8C-R)"
+					},
+					{
+						"styleId": [409379],
+						"value": "4935",
+						"condition": "301A,302A"
+					},
+					{
+						"styleId": [409379],
+						"value": "4936",
+						"condition": "301A,((50N-R,50N-F),(55B,(91P,96L)))"
+					},
+					{
+						"styleId": [409379],
+						"value": "4937",
+						"condition": "(300A-R,300A-F),(301A,302A)"
+					},
+					{
+						"styleId": [409379],
+						"value": "4941",
+						"condition": "302A"
+					},
+					{
+						"styleId": [409379, 409380],
+						"value": "4942",
+						"condition": "T24-F,T24-R"
+					},
+					{
+						"styleId": [409379],
+						"value": "4945",
+						"condition": "54Y-B"
+					},
+					{
+						"styleId": [409379],
+						"value": "4947",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409379],
+						"value": "4954",
+						"condition": "18C,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409379, 409380],
+						"value": "4962",
+						"condition": "64L-R,64L-F"
+					},
+					{
+						"styleId": [409379],
+						"value": "4971",
+						"condition": "T84-F,T84-R"
+					},
+					{
+						"styleId": [409380],
+						"value": "4946",
+						"condition": "501A&((994-F,994-R)&(-NONGV1-F,-NONGV1-R))"
+					},
+					{
+						"styleId": [409380],
+						"value": "4929",
+						"condition": "153-0"
+					},
+					{
+						"styleId": [409380],
+						"value": "4930",
+						"condition": "(954-R,954-F),((XL3-F,XL3-R),((XL6-F,XL6-R),XL9))"
+					},
+					{
+						"styleId": [409380],
+						"value": "4934",
+						"condition": "T8C-F,T8C-R"
+					},
+					{
+						"styleId": [409380],
+						"value": "4936",
+						"condition": "(50N-R,50N-F),96L"
+					},
+					{
+						"styleId": [409380],
+						"value": "4947",
+						"condition": "501A,63E"
+					},
+					{
+						"styleId": [409380],
+						"value": "4949",
+						"condition": "54W"
+					},
+					{
+						"styleId": [409380],
+						"value": "4954",
+						"condition": "188-0,(53C-R,53C-F)"
+					},
+					{
+						"styleId": [409380],
+						"value": "4968",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409453],
+						"value": "5509",
+						"condition": "47E-0"
+					},
+					{
+						"styleId": [409453],
+						"value": "5511",
+						"condition": "802A"
+					},
+					{
+						"styleId": [409453],
+						"value": "5515",
+						"condition": "802A"
+					},
+					{
+						"styleId": [409453],
+						"value": "5516",
+						"condition": "50N-R,50N-F"
+					},
+					{
+						"styleId": [409453],
+						"value": "5527",
+						"condition": "63E"
+					},
+					{
+						"styleId": [409453],
+						"value": "5548",
+						"condition": "63T"
+					},
+					{
+						"styleId": [409453],
+						"value": "5553",
+						"condition": "96P,96W"
+					},
+					{
+						"styleId": [409453],
+						"value": "5508",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 14,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Weight Information",
+						"id": 9
+					},
+					"title": {
+						"value": "Curb Weight - Front",
+						"id": 14
+					},
+					"measurementUnit": "lbs"
+				},
+				"range": {
+					"min": 2383.0,
+					"max": 3222.0
+				},
+				"value": [
+					{
+						"styleId": [409361, 409362],
+						"value": "2383",
+						"condition": ""
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "2477",
+						"condition": ""
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "2585",
+						"condition": ""
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "2718",
+						"condition": ""
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "2604",
+						"condition": ""
+					},
+					{
+						"styleId": [409383],
+						"value": "2672",
+						"condition": ""
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "2746",
+						"condition": ""
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "2826",
+						"condition": ""
+					},
+					{
+						"styleId": [409386],
+						"value": "2905",
+						"condition": ""
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "2918",
+						"condition": ""
+					},
+					{
+						"styleId": [409389],
+						"value": "3190",
+						"condition": ""
+					},
+					{
+						"styleId": [409454],
+						"value": "3222",
+						"condition": ""
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "2984",
+						"condition": ""
+					},
+					{
+						"styleId": [409369, 409370],
+						"value": "2560",
+						"condition": ""
+					},
+					{
+						"styleId": [409371],
+						"value": "2651",
+						"condition": ""
+					},
+					{
+						"styleId": [409375, 409376, 409377],
+						"value": "2743",
+						"condition": ""
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "2801",
+						"condition": ""
+					},
+					{
+						"styleId": [409374],
+						"value": "2903",
+						"condition": ""
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "2912",
+						"condition": ""
+					},
+					{
+						"styleId": [409453],
+						"value": "3116",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 15,
+				"definition": {
+					"group": {
+						"value": "Chassis",
+						"id": 4
+					},
+					"header": {
+						"value": "Weight Information",
+						"id": 9
+					},
+					"title": {
+						"value": "Curb Weight - Rear",
+						"id": 15
+					},
+					"measurementUnit": "lbs"
+				},
+				"range": {
+					"min": 1686.0,
+					"max": 2462.0
+				},
+				"value": [
+					{
+						"styleId": [409361, 409362],
+						"value": "1686",
+						"condition": ""
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "1687",
+						"condition": ""
+					},
+					{
+						"styleId": [409363, 409364],
+						"value": "1758",
+						"condition": ""
+					},
+					{
+						"styleId": [409367, 409368],
+						"value": "1700",
+						"condition": ""
+					},
+					{
+						"styleId": [409381, 409382],
+						"value": "1924",
+						"condition": ""
+					},
+					{
+						"styleId": [409383],
+						"value": "1931",
+						"condition": ""
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "1882",
+						"condition": ""
+					},
+					{
+						"styleId": [409384, 409385],
+						"value": "1944",
+						"condition": ""
+					},
+					{
+						"styleId": [409386],
+						"value": "1954",
+						"condition": ""
+					},
+					{
+						"styleId": [409387, 409388],
+						"value": "1950",
+						"condition": ""
+					},
+					{
+						"styleId": [409389],
+						"value": "2224",
+						"condition": ""
+					},
+					{
+						"styleId": [409454],
+						"value": "2462",
+						"condition": ""
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "1929",
+						"condition": ""
+					},
+					{
+						"styleId": [409369, 409370, 409371],
+						"value": "1855",
+						"condition": ""
+					},
+					{
+						"styleId": [409375, 409376, 409377],
+						"value": "1902",
+						"condition": ""
+					},
+					{
+						"styleId": [409372, 409373],
+						"value": "1874",
+						"condition": ""
+					},
+					{
+						"styleId": [409374],
+						"value": "1903",
+						"condition": ""
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "2016",
+						"condition": ""
+					},
+					{
+						"styleId": [409453],
+						"value": "2392",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 304,
+				"definition": {
+					"group": {
+						"value": "Dimensions",
+						"id": 5
+					},
+					"header": {
+						"value": "Exterior Dimensions",
+						"id": 2
+					},
+					"title": {
+						"value": "Length, Overall",
+						"id": 304
+					},
+					"measurementUnit": "in"
+				},
+				"range": {
+					"min": 209.3,
+					"max": 250.5
+				},
+				"value": [
+					{
+						"styleId": [409361, 409362, 409363, 409364],
+						"value": "209.3",
+						"condition": ""
+					},
+					{
+						"styleId": [409365, 409366, 409367, 409368],
+						"value": "227.9",
+						"condition": ""
+					},
+					{
+						"styleId": [
+							409369, 409370, 409371, 409372, 409373, 409374, 409381, 409382,
+							409383, 409384, 409385, 409386, 409387, 409388, 409389, 409454
+						],
+						"value": "231.9",
+						"condition": ""
+					},
+					{
+						"styleId": [
+							409390, 409391, 409392, 409393, 409394, 409395, 409396, 409397
+						],
+						"value": "243.7",
+						"condition": ""
+					},
+					{
+						"styleId": [409375, 409376, 409377, 409378, 409379, 409380],
+						"value": "250.5",
+						"condition": ""
+					},
+					{
+						"styleId": [409453],
+						"value": "220",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 305,
+				"definition": {
+					"group": {
+						"value": "Dimensions",
+						"id": 5
+					},
+					"header": {
+						"value": "Exterior Dimensions",
+						"id": 2
+					},
+					"title": {
+						"value": "Width, Max w/o mirrors",
+						"id": 305
+					},
+					"measurementUnit": "in"
+				},
+				"range": {
+					"min": 79.9,
+					"max": 86.3
+				},
+				"value": [
+					{
+						"styleId": [
+							409361, 409362, 409363, 409364, 409365, 409366, 409367, 409368,
+							409369, 409370, 409371, 409372, 409373, 409374, 409375, 409376,
+							409377, 409378, 409379, 409380, 409381, 409382, 409383, 409384,
+							409385, 409386, 409387, 409388, 409389, 409390, 409391, 409392,
+							409393, 409394, 409395, 409396, 409397
+						],
+						"value": "79.9",
+						"condition": ""
+					},
+					{
+						"styleId": [409453, 409454],
+						"value": "86.3",
+						"condition": ""
+					}
+				]
+			},
+			{
+				"titleId": 306,
+				"definition": {
+					"group": {
+						"value": "Dimensions",
+						"id": 5
+					},
+					"header": {
+						"value": "Exterior Dimensions",
+						"id": 2
+					},
+					"title": {
+						"value": "Height, Overall",
+						"id": 306
+					},
+					"measurementUnit": "in"
+				},
+				"range": {
+					"min": 75.1,
+					"max": 78.5
+				},
+				"value": [
+					{
+						"styleId": [
+							409361, 409362, 409369, 409370, 409371, 409375, 409376, 409377
+						],
+						"value": "75.5",
+						"condition": ""
+					},
+					{
+						"styleId": [409365, 409366],
+						"value": "75.1",
+						"condition": ""
+					},
+					{
+						"styleId": [409363, 409364, 409367, 409368],
+						"value": "76.9",
+						"condition": ""
+					},
+					{
+						"styleId": [409381, 409382, 409383],
+						"value": "75.6",
+						"condition": ""
+					},
+					{
+						"styleId": [409390, 409391, 409392],
+						"value": "75.7",
+						"condition": ""
+					},
+					{
+						"styleId": [
+							409372, 409373, 409374, 409384, 409385, 409386, 409387, 409388,
+							409389
+						],
+						"value": "77.2",
+						"condition": ""
+					},
+					{
+						"styleId": [409453, 409454],
+						"value": "78.5",
+						"condition": ""
+					},
+					{
+						"styleId": [409393, 409394, 409395, 409396, 409397],
+						"value": "77.3",
+						"condition": ""
+					},
+					{
+						"styleId": [409378, 409379, 409380],
+						"value": "77",
+						"condition": ""
+					}
+				]
+			}
+		],
+		"exteriorColor": [],
+		"interiorColor": [],
+		"genericColor": [],
+		"basePrice": {
+			"invoice": {
+				"low": 30990.0,
+				"high": 76005.0
+			},
+			"msrp": {
+				"low": 32339.0,
+				"high": 85329.0
+			},
+			"destination": {
+				"low": 1950.0,
+				"high": 1950.0
+			},
+			"unknown": false
+		},
+		"country": "CA",
+		"language": "en",
+		"modelYear": 2020,
+		"bestMakeName": "Ford",
+		"bestModelName": "F-150",
+		"bestStyleName": "Box",
+		"bestTrimName": "XL/XLT/LARIAT/King Ranch/Platinum/Limited/Raptor"
+	}
+}
