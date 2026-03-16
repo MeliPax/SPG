@@ -1,1 +1,3 @@
-VIN,VehTrim,VehYear,VehModel,VehMake
+VehVin,VehTrim,VehMakeYear,VehModel,VehMake
+1FMCU9J98DUC05451,Titanium,2013,Escape,Ford
+1FMCU9GX5FUC50758,SE,2015,Escape,Ford
