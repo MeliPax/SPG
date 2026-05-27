@@ -1,0 +1,43 @@
+
+
+Vehicle 1:
+
+'make_name': 'Ford',
+'model_name': 'Fusion',
+'sub_model_name': 'Titanium',
+'year': '2020',
+'engine_description': '2.0L L4 (9) Turbocharged GAS FI',
+
+
+System ID: 5
+
+Job options:
+
+Rack & Pinion Assembly R&R
+Steering Knuckle R&R
+Steering Knuckle R&R
+Tie Rod R&R
+Tie Rod R&R'
+
+
+Job: Tie Rod R&R
+
+{'status': 'OK',
+ 'status_code': '200',
+ 'details': {'job_description': 'Includes: The removal of component and all necessary components for access. Does not include: System diagnosis, testing, wheel alignment, or a vehicle road test.',
+  'additional_labor_time': '0',
+  'additional_warranty_labor_time': '0',
+  'all_labor_time': '2.0',
+  'all_warranty_labor_time': '0',
+  'base_labor_time': '1.1',
+  'base_warranty_labor_time': '0',
+  'labor_time_interval': 'Hours',
+  'required_skill': 'Requires a person with limited skills and wherever simpler measuring devices are used for proper repair (Feeler Gauge, Belt Tensioner Gauge,  etc). This person must have a thorough working knowledge of the component being serviced.',
+  'service_type': 'Service',
+  'base_labor_time_average': '1.20',
+  'is_active': 'true',
+  'type': 'Main Operation'},
+ 'vehicle_id': '85215',
+ 'application_id': '244579908'}
+
+ 

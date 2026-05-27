@@ -1,0 +1,7 @@
+Vehicle category 
+
+Vin -> Model 
+
+
+At the very first step, when decoding Vins, th response may return one or more trim options. For instance, when a Ford escape Vin is passed, only one trim is returned, but an F150 returns multiple trim options. We need to determine how to handle both edge cases, when it's a single model or multiple.
+
