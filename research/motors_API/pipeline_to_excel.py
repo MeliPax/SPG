@@ -50,14 +50,18 @@ def setup_output_directory(base_dir: Path = None) -> Path:
 def flatten_pipeline_to_rows(pipeline_results: Dict) -> List[Dict]:
     """
     Convert nested pipeline structure to flat list of row dictionaries.
-    One row per part with all work item context preserved.
+    Creates labour records and part records, each with a record_type column.
     Includes VIN and vehicle information in each row.
+
+    Record Types:
+    - 'labour': Labour/work-time item (one per application_id)
+    - 'part': Part item (one per part_app_id within an application_id)
 
     Args:
         pipeline_results: Output from run_pipeline()
 
     Returns:
-        List[Dict]: Flattened rows, one per part (with VIN info first)
+        List[Dict]: Flattened rows with record_type distinguishing labour vs part items
     """
     rows = []
 
@@ -68,11 +72,33 @@ def flatten_pipeline_to_rows(pipeline_results: Dict) -> List[Dict]:
             # Get the parts dict for this work item
             parts_dict = work_item.get('parts', {})
 
-            # Iterate through each part in this work item
+            # STEP 1: Create labour record for this work item
+            labour_row = {
+                # Record type identifier
+                'record_type': 'labour',
+                # VIN and vehicle info
+                'vin': work_item.get('vin'),
+                'make_name': work_item.get('make_name'),
+                'model_name': work_item.get('model_name'),
+                'engine_description': work_item.get('engine_description'),
+                'year': work_item.get('year'),
+                # Service and application info
+                'service_name': service_name,
+                'application_id': work_item.get('application_id'),
+                'vehicle_id': work_item.get('vehicle_id'),
+                # Labour record has no part_app_id
+                'part_app_id': None,
+                # All other work item fields (labour details like job_description, base_labor_time, etc.)
+                **{k: v for k, v in work_item.items() if k not in ['vin', 'make_name', 'model_name', 'engine_description', 'year', 'application_id', 'vehicle_id', 'service_name', 'parts']}
+            }
+            rows.append(labour_row)
+
+            # STEP 2: Create part records for each part in this work item
             for part_app_id, part_data in parts_dict.items():
-                # Create a row with VIN/vehicle info first, then work item, then part data
-                row = {
-                    # VIN and vehicle info (from step3 onwards)
+                part_row = {
+                    # Record type identifier
+                    'record_type': 'part',
+                    # VIN and vehicle info
                     'vin': work_item.get('vin'),
                     'make_name': work_item.get('make_name'),
                     'model_name': work_item.get('model_name'),
@@ -89,8 +115,7 @@ def flatten_pipeline_to_rows(pipeline_results: Dict) -> List[Dict]:
                     # All part fields
                     **part_data
                 }
-
-                rows.append(row)
+                rows.append(part_row)
 
     print(f"Flattened {len(rows)} rows from pipeline results")
     return rows
@@ -187,6 +212,7 @@ def deduplicate_rows(new_df: pd.DataFrame, existing_df: pd.DataFrame) -> pd.Data
     - Key columns: ['vin', 'vehicle_id', 'application_id', 'part_app_id']
     - If all four columns match an existing row → skip
     - Otherwise → include in results
+    - Labour records have part_app_id=None, making them distinct from part records
     - Using 'vin' ensures same part from different VINs is NOT treated as duplicate
 
     Args:
