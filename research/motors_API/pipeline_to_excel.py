@@ -51,29 +51,13 @@ def flatten_pipeline_to_rows(pipeline_results: Dict) -> List[Dict]:
     """
     Convert nested pipeline structure to flat list of row dictionaries.
     One row per part with all work item context preserved.
-
-    Input structure:
-    {
-        'Service_Name': [
-            {
-                'application_id': '...',
-                'vehicle_id': '...',
-                'base_labor_time': '...',
-                'parts': {
-                    'part_app_id_1': {'part_number': '...', 'price': '...'},
-                    'part_app_id_2': {...}
-                }
-            }
-        ]
-    }
-
-    Output: List of dicts with one row per part
+    Includes VIN and vehicle information in each row.
 
     Args:
         pipeline_results: Output from run_pipeline()
 
     Returns:
-        List[Dict]: Flattened rows, one per part
+        List[Dict]: Flattened rows, one per part (with VIN info first)
     """
     rows = []
 
@@ -86,16 +70,25 @@ def flatten_pipeline_to_rows(pipeline_results: Dict) -> List[Dict]:
 
             # Iterate through each part in this work item
             for part_app_id, part_data in parts_dict.items():
-                # Create a row combining work item + part data
+                # Create a row with VIN/vehicle info first, then work item, then part data
                 row = {
+                    # VIN and vehicle info (from step3 onwards)
+                    'vin': work_item.get('vin'),
+                    'make_name': work_item.get('make_name'),
+                    'model_name': work_item.get('model_name'),
+                    'engine_description': work_item.get('engine_description'),
+                    'year': work_item.get('year'),
+                    # Service and application info
                     'service_name': service_name,
+                    'application_id': work_item.get('application_id'),
+                    'vehicle_id': work_item.get('vehicle_id'),
+                    # Part info
                     'part_app_id': part_app_id,
-                    **work_item,  # Add all work item fields
-                    **part_data   # Add all part fields (overrides if same key)
+                    # All other work item fields
+                    **{k: v for k, v in work_item.items() if k not in ['vin', 'make_name', 'model_name', 'engine_description', 'year', 'application_id', 'vehicle_id', 'service_name', 'parts']},
+                    # All part fields
+                    **part_data
                 }
-
-                # Remove 'parts' dict from row (we extracted it already)
-                row.pop('parts', None)
 
                 rows.append(row)
 
@@ -191,9 +184,10 @@ def deduplicate_rows(new_df: pd.DataFrame, existing_df: pd.DataFrame) -> pd.Data
     Remove rows from new_df that already exist in existing_df.
 
     Deduplication Strategy:
-    - Key columns: ['vehicle_id', 'application_id', 'part_app_id']
-    - If all three columns match an existing row → skip
+    - Key columns: ['vin', 'vehicle_id', 'application_id', 'part_app_id']
+    - If all four columns match an existing row → skip
     - Otherwise → include in results
+    - Using 'vin' ensures same part from different VINs is NOT treated as duplicate
 
     Args:
         new_df: DataFrame with new rows
@@ -207,8 +201,8 @@ def deduplicate_rows(new_df: pd.DataFrame, existing_df: pd.DataFrame) -> pd.Data
         print(f"No existing data, all {len(new_df)} rows are new")
         return new_df
 
-    # Create composite key from dedup columns
-    dedup_cols = ['vehicle_id', 'application_id', 'part_app_id']
+    # Create composite key from dedup columns (including VIN)
+    dedup_cols = ['vin', 'vehicle_id', 'application_id', 'part_app_id']
 
     # Check that all dedup columns exist
     missing_cols = [col for col in dedup_cols if col not in new_df.columns]
