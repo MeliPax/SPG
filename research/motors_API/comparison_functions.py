@@ -98,35 +98,88 @@ def compare_years(make: str, model: str, year1: int, year2: int, excel_file: str
             app_id_y1 = labour_y1_list[labour_idx] if labour_idx < len(labour_y1_list) else None
             app_id_y2 = labour_y2_list[labour_idx] if labour_idx < len(labour_y2_list) else None
 
-            # Labour details
+            # Labour details with time
             y1_labour_text = ""
-            y1_parts = []
+            y1_parts_with_price = []
             if app_id_y1:
                 labour_rec = service_y1[service_y1['application_id'] == app_id_y1].iloc[0]
-                job_desc = labour_rec['job_description'][:45] + "..." if len(str(labour_rec['job_description'])) > 45 else labour_rec['job_description']
+                job_desc = labour_rec['job_description'][:35] + "..." if len(str(labour_rec['job_description'])) > 35 else labour_rec['job_description']
+
+                # Get time info
+                base_time = labour_rec.get('base_labor_time', '')
+                all_time = labour_rec.get('all_labor_time', '')
+                time_str = ""
+                if pd.notna(base_time) and base_time != '' and float(base_time) > 0:
+                    time_str += f"⏱️ {base_time}h"
+                if pd.notna(all_time) and all_time != '' and float(all_time) > 0:
+                    if time_str:
+                        time_str += f" ({all_time}h total)"
+                    else:
+                        time_str = f"⏱️ {all_time}h"
+
                 y1_labour_text = f"  💼 {job_desc}"
-                y1_parts = list(service_y1[(service_y1['record_type'] == 'part') & (service_y1['application_id'] == app_id_y1) & (pd.notna(service_y1['oepr_part_number'])) & (service_y1['oepr_part_number'] != 'NR')]['oepr_part_number'].unique())
+                if time_str:
+                    y1_labour_text += f"\n     {time_str}"
+
+                # Get parts with prices
+                parts_df = service_y1[(service_y1['record_type'] == 'part') & (service_y1['application_id'] == app_id_y1) & (pd.notna(service_y1['oepr_part_number'])) & (service_y1['oepr_part_number'] != 'NR')]
+                for _, part in parts_df.iterrows():
+                    part_num = part['oepr_part_number']
+                    price = part.get('price', '')
+                    price_str = f" (${price})" if pd.notna(price) and price != '' else ""
+                    y1_parts_with_price.append((part_num, price_str))
 
             y2_labour_text = ""
-            y2_parts = []
+            y2_parts_with_price = []
             if app_id_y2:
                 labour_rec = service_y2[service_y2['application_id'] == app_id_y2].iloc[0]
-                job_desc = labour_rec['job_description'][:45] + "..." if len(str(labour_rec['job_description'])) > 45 else labour_rec['job_description']
+                job_desc = labour_rec['job_description'][:35] + "..." if len(str(labour_rec['job_description'])) > 35 else labour_rec['job_description']
+
+                # Get time info
+                base_time = labour_rec.get('base_labor_time', '')
+                all_time = labour_rec.get('all_labor_time', '')
+                time_str = ""
+                if pd.notna(base_time) and base_time != '' and float(base_time) > 0:
+                    time_str += f"⏱️ {base_time}h"
+                if pd.notna(all_time) and all_time != '' and float(all_time) > 0:
+                    if time_str:
+                        time_str += f" ({all_time}h total)"
+                    else:
+                        time_str = f"⏱️ {all_time}h"
+
                 y2_labour_text = f"  💼 {job_desc}"
-                y2_parts = list(service_y2[(service_y2['record_type'] == 'part') & (service_y2['application_id'] == app_id_y2) & (pd.notna(service_y2['oepr_part_number'])) & (service_y2['oepr_part_number'] != 'NR')]['oepr_part_number'].unique())
+                if time_str:
+                    y2_labour_text += f"\n     {time_str}"
+
+                # Get parts with prices
+                parts_df = service_y2[(service_y2['record_type'] == 'part') & (service_y2['application_id'] == app_id_y2) & (pd.notna(service_y2['oepr_part_number'])) & (service_y2['oepr_part_number'] != 'NR')]
+                for _, part in parts_df.iterrows():
+                    part_num = part['oepr_part_number']
+                    price = part.get('price', '')
+                    price_str = f" (${price})" if pd.notna(price) and price != '' else ""
+                    y2_parts_with_price.append((part_num, price_str))
 
             print(f"{y1_labour_text:<{col_width}}{divider}{y2_labour_text:<{col_width}}")
 
-            # Parts - side by side
-            max_parts = max(len(y1_parts), len(y2_parts))
+            # Parts - side by side with prices
+            max_parts = max(len(y1_parts_with_price), len(y2_parts_with_price))
             for part_idx in range(max_parts):
-                y1_part = f"    📦 {y1_parts[part_idx]}" if part_idx < len(y1_parts) else ""
-                y2_part = f"    📦 {y2_parts[part_idx]}" if part_idx < len(y2_parts) else ""
+                y1_part = ""
+                y2_part = ""
+
+                if part_idx < len(y1_parts_with_price):
+                    part_num, price_str = y1_parts_with_price[part_idx]
+                    y1_part = f"    📦 {part_num}{price_str}"
+
+                if part_idx < len(y2_parts_with_price):
+                    part_num, price_str = y2_parts_with_price[part_idx]
+                    y2_part = f"    📦 {part_num}{price_str}"
 
                 # Highlight common parts
-                if part_idx < len(y1_parts) and part_idx < len(y2_parts) and y1_parts[part_idx] == y2_parts[part_idx]:
-                    y1_part = f"    ✓ {y1_parts[part_idx]} (common)"
-                    y2_part = f"    ✓ {y2_parts[part_idx]} (common)"
+                if part_idx < len(y1_parts_with_price) and part_idx < len(y2_parts_with_price):
+                    if y1_parts_with_price[part_idx][0] == y2_parts_with_price[part_idx][0]:
+                        y1_part = f"    ✓ {y1_parts_with_price[part_idx][0]}{y1_parts_with_price[part_idx][1]} (common)"
+                        y2_part = f"    ✓ {y2_parts_with_price[part_idx][0]}{y2_parts_with_price[part_idx][1]} (common)"
 
                 print(f"{y1_part:<{col_width}}{divider}{y2_part:<{col_width}}")
 
