@@ -165,10 +165,24 @@ def compare_years(
                 & (service_y2["oepr_part_number"] != "NR")
             ]
 
-            print(f"   DEBUG: {service_name} - Y1 parts: {len(parts_y1)}, Y2 parts: {len(parts_y2)}")
+            # Deduplicate parts - keep first occurrence with price
+            seen_y1 = set()
+            y1_parts_list = []
+            for _, row in parts_y1.iterrows():
+                part_num = row["oepr_part_number"]
+                if part_num not in seen_y1:
+                    seen_y1.add(part_num)
+                    price_str = f" (${row['price']})" if pd.notna(row.get('price')) and row.get('price') != "" else ""
+                    y1_parts_list.append((part_num, price_str))
 
-            y1_parts_list = [(row["oepr_part_number"], f" (${row['price']})" if pd.notna(row.get('price')) and row.get('price') != "" else "") for _, row in parts_y1.iterrows()]
-            y2_parts_list = [(row["oepr_part_number"], f" (${row['price']})" if pd.notna(row.get('price')) and row.get('price') != "" else "") for _, row in parts_y2.iterrows()]
+            seen_y2 = set()
+            y2_parts_list = []
+            for _, row in parts_y2.iterrows():
+                part_num = row["oepr_part_number"]
+                if part_num not in seen_y2:
+                    seen_y2.add(part_num)
+                    price_str = f" (${row['price']})" if pd.notna(row.get('price')) and row.get('price') != "" else ""
+                    y2_parts_list.append((part_num, price_str))
 
             max_parts = max(len(y1_parts_list), len(y2_parts_list))
             for part_idx in range(max_parts):
@@ -222,20 +236,23 @@ def compare_years(
                     if time_str:
                         y1_labour_text += f"\n     {time_str}"
 
-                    # Get parts with prices
+                    # Get parts with prices (deduplicated)
                     parts_df = service_y1[
                         (service_y1["record_type"] == "part")
                         & (service_y1["application_id"] == app_id_y1)
                         & (pd.notna(service_y1["oepr_part_number"]))
                         & (service_y1["oepr_part_number"] != "NR")
                     ]
+                    seen_parts_y1 = set()
                     for _, part in parts_df.iterrows():
                         part_num = part["oepr_part_number"]
-                        price = part.get("price", "")
-                        price_str = (
-                            f" (${price})" if pd.notna(price) and price != "" else ""
-                        )
-                        y1_parts_with_price.append((part_num, price_str))
+                        if part_num not in seen_parts_y1:
+                            seen_parts_y1.add(part_num)
+                            price = part.get("price", "")
+                            price_str = (
+                                f" (${price})" if pd.notna(price) and price != "" else ""
+                            )
+                            y1_parts_with_price.append((part_num, price_str))
 
                 y2_labour_text = ""
                 y2_parts_with_price = []
@@ -265,20 +282,23 @@ def compare_years(
                     if time_str:
                         y2_labour_text += f"\n     {time_str}"
 
-                    # Get parts with prices
+                    # Get parts with prices (deduplicated)
                     parts_df = service_y2[
                         (service_y2["record_type"] == "part")
                         & (service_y2["application_id"] == app_id_y2)
                         & (pd.notna(service_y2["oepr_part_number"]))
                         & (service_y2["oepr_part_number"] != "NR")
                     ]
+                    seen_parts_y2 = set()
                     for _, part in parts_df.iterrows():
                         part_num = part["oepr_part_number"]
-                        price = part.get("price", "")
-                        price_str = (
-                            f" (${price})" if pd.notna(price) and price != "" else ""
-                        )
-                        y2_parts_with_price.append((part_num, price_str))
+                        if part_num not in seen_parts_y2:
+                            seen_parts_y2.add(part_num)
+                            price = part.get("price", "")
+                            price_str = (
+                                f" (${price})" if pd.notna(price) and price != "" else ""
+                            )
+                            y2_parts_with_price.append((part_num, price_str))
 
                 print(
                     f"{y1_labour_text:<{col_width}}{divider}{y2_labour_text:<{col_width}}"
