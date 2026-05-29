@@ -72,9 +72,12 @@ def compare_years(
     print("📊 SUMMARY STATISTICS\n")
 
     services_y1 = df_year1["service_name"].nunique()
+    # Count labour items - try labour records first, fall back to unique application_ids from parts
     labour_y1 = df_year1[
         (df_year1["record_type"] == "labour") & (pd.notna(df_year1["job_description"]))
     ]["application_id"].nunique()
+    if labour_y1 == 0:
+        labour_y1 = df_year1[df_year1["record_type"] == "part"]["application_id"].nunique()
     parts_y1 = df_year1[
         (df_year1["record_type"] == "part")
         & (pd.notna(df_year1["oepr_part_number"]))
@@ -85,6 +88,8 @@ def compare_years(
     labour_y2 = df_year2[
         (df_year2["record_type"] == "labour") & (pd.notna(df_year2["job_description"]))
     ]["application_id"].nunique()
+    if labour_y2 == 0:
+        labour_y2 = df_year2[df_year2["record_type"] == "part"]["application_id"].nunique()
     parts_y2 = df_year2[
         (df_year2["record_type"] == "part")
         & (pd.notna(df_year2["oepr_part_number"]))
@@ -107,10 +112,7 @@ def compare_years(
     # ========== DEBUG INFO ==========
     all_labour_y1 = df_year1[df_year1["record_type"] == "labour"]
     all_labour_y2 = df_year2[df_year2["record_type"] == "labour"]
-    print(f"🔍 DEBUG: Total labour records (2020): {len(all_labour_y1)}, (2014): {len(all_labour_y2)}")
-    if len(all_labour_y1) > 0:
-        print(f"   Sample labour record columns: {all_labour_y1.columns.tolist()}")
-        print(f"   First labour record job_description: {all_labour_y1.iloc[0].get('job_description', 'MISSING')}")
+    print(f"🔍 DEBUG: Total labour records ({year1}): {len(all_labour_y1)}, ({year2}): {len(all_labour_y2)}")
 
     # ========== DETAILED SIDE-BY-SIDE COMPARISON ==========
     print(f"\n\n{'='*160}")
